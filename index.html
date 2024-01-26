@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heavy Hitters - Sealed Generator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap" rel="stylesheet">
+    <style>
+
+        body {
+            font-family: 'Open Sans', sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            overflow: hidden;
+            position: relative;
+            color: white;
+            background-color: black;
+        }
+
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('flesh-and-blood-heavy-hitters-19-1024x558.webp') center/cover no-repeat fixed;
+            opacity: 0.3; /* Adjust opacity as needed */
+            z-index: -1; /* Ensure the pseudo-element is behind the content */
+        }
+
+        #output {
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            max-width: calc(100vw - 300px);
+            height: 100vh;
+            overflow: scroll;
+            padding-bottom: 4rem;
+        }
+
+        #output  > :last-child {
+        margin-bottom: 10vh;
+      }
+
+        .card {
+            max-height: 628px;
+            margin: 5px;
+            cursor: pointer;
+        }
+
+        .booster {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          max-width: calc(100vw - 300px);
+        }
+
+        .booster-header {
+            flex-grow: 1;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .booster-header img {
+          order: -1;
+          margin-right: 10px;
+        }
+        .booster div {
+          display: flex;
+          flex-direction: column-reverse;
+          align-items: center;
+        }
+
+        .rainbow-text {
+            background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+            -webkit-background-clip: text;
+            color: transparent;
+            display: inline-block;
+        }
+
+        #rightPanel {
+            width: 300px;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            right: 0;
+            background-color: black;
+            padding: 10px;
+            display: block;
+        }
+
+        .controls { 
+            padding: 10px;
+        }
+
+        button {
+            padding: 10px;
+            font-size: 20px;
+            font-weight: bold;
+            background-color: black;
+            color: white;
+            border: 2px solid white;
+            cursor: pointer;
+        }
+
+        .primary {
+            background-color: white;
+            color: black;
+            margin-right: 2rem;
+        }
+    </style>
+</head>
+<body>
+<div class="controls">
+  <h2 style="display: inline; padding-right: 2rem;">
+    Heavy Hitters - Sealed Generator v1
+  </h2>
+  <button class="primary" id="generateButton">Generate Sealed Boosters</button>
+  <button id="exportButton">Export to Fabrary</button>
+</div>
+
+<div id="output"></div>
+
+<div id="rightPanel"></div>
+
+<script>
+  let fabraryUrl = generateDeckURL(['HVY002', 'HVY004', 'HVY005', 'HVY005', 'HVY046', 'HVY048', 'HVY049', 'HVY049', 'HVY094', 'HVY094', 'HVY244']);
+
+  document.getElementById('exportButton').addEventListener('click', function () {
+    window.open(fabraryUrl, '_blank');
+  });
+
+  document.getElementById('generateButton').addEventListener('click', function () {
+      fetch('layouts.json')
+          .then(response => response.json())
+          .then(layouts => {
+              fetch('types.json')
+                  .then(response => response.json())
+                  .then(types => {
+                      fetch('cards.json')
+                          .then(response => response.json())
+                          .then(cards => {
+                              generateRandomLayout(layouts, types, cards);
+                          })
+                          .catch(error => console.error('Error fetching cards.json:', error));
+                  })
+                  .catch(error => console.error('Error fetching types.json:', error));
+          })
+          .catch(error => console.error('Error fetching layouts.json:', error));
+  });
+
+function getRandomCard(type, types) {
+    const typeCards = types[type];
+    const randomCardName = typeCards[Math.floor(Math.random() * typeCards.length)];
+    return randomCardName;
+}
+
+function findMatchingCard(cardName, cards) {
+    return cards.find(card => card.name === cardName);
+}
+
+function generateRandomLayout(layouts, types, cards) {
+    let randomLayout = layouts[Math.floor(Math.random() * layouts.length)];
+    const boosters = [];
+    const cardsIds = ['HVY002', 'HVY004', 'HVY005', 'HVY005', 'HVY046', 'HVY048', 'HVY049', 'HVY049', 'HVY094', 'HVY094', 'HVY244'];
+
+    for (let boosterNumber = 0; boosterNumber < 6; boosterNumber++) {
+        randomLayout = layouts[Math.floor(Math.random() * layouts.length)];
+        boosters[boosterNumber] = {};
+        for (const type in randomLayout) {
+            const quantity = randomLayout[type];
+            boosters[boosterNumber][type] = [];
+
+            for (let i = 0; i < quantity; i++) {
+                const randomCardName = getRandomCard(type, types);
+                const matchingCard = findMatchingCard(randomCardName, cards);
+                if (matchingCard) {
+                    if (boosters[boosterNumber][type].includes(matchingCard)) {
+                        i--;
+                        continue;
+                    }
+                    cardsIds.push(matchingCard.collector_number)
+                    boosters[boosterNumber][type].push(matchingCard);
+                } else {
+                    console.error(`Card not found for name: ${randomCardName}`);
+                }
+            }
+        }
+    }
+
+    fabraryUrl = generateDeckURL(cardsIds)
+    displayCardImages(boosters);
+}
+
+function generateDeckURL(cardCodes) {
+    const baseURL = "https://fabrary.net/decks?tab=import&format=sealed";
+    const cardsQueryString = cardCodes.map(code => `cards=${code}`).join('&');
+    const deckURL = `${baseURL}&${cardsQueryString}`;
+
+    return deckURL;
+}
+
+function displayCardImages(boosters) {
+    const outputDiv = document.getElementById('output');
+    outputDiv.innerHTML = '';
+
+    const hof = document.createElement('img');
+    hof.src = 'hof.png';
+    hof.alt = 'Heart of Fyendal';
+    
+    for (let boosterNumber = 0; boosterNumber < boosters.length; boosterNumber++) {
+      const boosterDiv = document.createElement('div');
+      boosterDiv.classList.add('booster');
+      const boosterHeader = document.createElement('h2');
+      boosterHeader.innerText = `Booster ${boosterNumber + 1}`;
+      boosterHeader.appendChild(hof.cloneNode(true));
+      boosterHeader.classList.add('booster-header');
+      boosterDiv.appendChild(boosterHeader);
+
+      for (const type in boosters[boosterNumber]) {
+          const cardList = boosters[boosterNumber][type];
+          for (const card of cardList) {
+              const cardContainer = document.createElement('div');
+              const img = document.createElement('img');
+              img.src = card.image_uris.en;
+              img.alt = card.name;
+              img.style.maxHeight = '250px';
+              img.classList.add('card');
+              
+              img.addEventListener('mouseenter', () => showCardInfo(card));
+              img.addEventListener('mouseleave', hideCardInfo);
+              
+              cardContainer.appendChild(img);
+              const typeName = document.createElement('p');
+              typeName.innerText = type;
+              if (type.includes("RF")) {
+                typeName.classList.add('rainbow-text');
+              }
+              cardContainer.appendChild(typeName);
+              boosterDiv.appendChild(cardContainer);
+          }
+      }
+
+      outputDiv.appendChild(boosterDiv);
+    }
+}
+
+function showCardInfo(card) {
+    const rightPanel = document.getElementById('rightPanel');
+    rightPanel.innerHTML = `
+    <img src=${card.image_uris.en} alt=${card.name} style="max-height: 450px; margin-bottom: 10px;" />
+    <h2>${card.name}</h2>
+                            <p>Rarity: ${card.rarity.charAt(0).toUpperCase() + card.rarity.slice(1)}</p>
+                            <p>Color: <b style="color: ${card.name.match(/\(([^)]+)\)/)?.[1]};">${card.name.match(/\(([^)]+)\)/)?.[1] || 'Equipment'}</b></p>
+                            <p>Resource Cost: ${card.mana_cost}</p>
+                            <p>Card ID: ${card.collector_number}</p>
+                            <p>Type: ${card.type}</p>`;
+    rightPanel.style.display = 'block';
+}
+
+function hideCardInfo() {
+    const rightPanel = document.getElementById('rightPanel');
+    rightPanel.style.display = 'block';
+}
+</script>
+
+</body>
+</html>
