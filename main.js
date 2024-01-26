@@ -12,23 +12,26 @@ fs.readFile('layouts.json', 'utf8', (err, data) => {
     const boostersLayout = JSON.parse(data);
 
     // Count total number of items
-    let majestics = 0
+    let typeCount = {}
     const totalItems = boostersLayout.length
     
     boostersLayout.forEach(layout => {
       Object.keys(layout).forEach(key => {
-        if (key === "RFRare") {
-          majestics += 1
+        if (typeCount[key]) {
+          typeCount[key] += 1
+        } else {
+          typeCount[key] = 1
         }
       })
     })
-    // Calculate the ratio
-    const ratio = majestics / totalItems;
 
-    // Log the results
     console.log(`Total Booster Layouts: ${totalItems}`);
-    console.log(`Boosters containing RF Rare: ${majestics}`);
-    console.log(`Ratio: ${ratio}`);
+    console.log(`Total Types: ${Object.keys(typeCount).length}`);
+    Object.keys(typeCount).forEach(key => {
+      console.log(`Bosters with ${key}: ${typeCount[key]}`)
+      console.log(` Ratio ${typeCount[key] / totalItems * 100}%`)
+    })
+
   } catch (jsonError) {
     console.error('Error parsing JSON:', jsonError);
   }
