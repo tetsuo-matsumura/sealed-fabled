@@ -17,7 +17,7 @@ fs.readFile('layouts.json', 'utf8', (err, data) => {
     
     boostersLayout.forEach(layout => {
       Object.keys(layout).forEach(key => {
-        if (key === "Majestic" || key === "RFMajestic") {
+        if (key === "RFRare") {
           majestics += 1
         }
       })
@@ -27,7 +27,7 @@ fs.readFile('layouts.json', 'utf8', (err, data) => {
 
     // Log the results
     console.log(`Total Booster Layouts: ${totalItems}`);
-    console.log(`Boosters containing Majestics: ${majestics}`);
+    console.log(`Boosters containing RF Rare: ${majestics}`);
     console.log(`Ratio: ${ratio}`);
   } catch (jsonError) {
     console.error('Error parsing JSON:', jsonError);
