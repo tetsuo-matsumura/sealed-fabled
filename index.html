@@ -43,7 +43,7 @@
         }
 
         #output  > :last-child {
-        margin-bottom: 10vh;
+        margin-bottom: 50vh;
       }
 
         .card {
@@ -119,6 +119,16 @@
             background-color: white;
             color: black;
             margin-right: 2rem;
+        }
+
+        .footer {
+          position: fixed;
+          bottom: 0;
+          width: 100%;
+          text-align: center;
+          padding: 4px;
+          font-size: smaller;
+          background-color: rgba(0, 0, 0, 0.5);
         }
         @media (max-width: 767px) {
           #rightPanel {
@@ -353,7 +363,7 @@ function displayDeckInfo() {
     const cards = countCards();
     rightPanel.innerHTML = `
     <h2>Deck Info</h2>
-    <p>Card Amount: ${cards.all} + 11 Tokens</p>
+    <p>Card Amount: ${cards.all} + 5 Tokens</p>
     ${Object.keys(cards).reduce((acc, cur) => {
       if (cur === 'all') return acc
       return acc + `<p>${cur}: ${cards[cur]}</p>`
@@ -386,5 +396,6 @@ function countCards() {
 displayDeckInfo() 
 </script>
 
+<div class="footer">Made with 🩵 by <b>Tetsuo</b></div>
 </body>
 </html>
