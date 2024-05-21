@@ -1,2182 +1,2042 @@
 [
   {
-      "name": "Ball Breaker",
+      "name": "Heirloom of Snake Hide",
       "rarity": "rare",
       "mana_cost": "0",
-      "collector_number": "HVY006",
-      "type": "Brute, Weapon, Flail, 1H",
+      "collector_number": "MST005",
+      "type": "Mystic, Assassin, Equipment, Chest",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY006.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST005.png"
       }
   },
   {
-      "name": "Mini Meataxe",
-      "rarity": "rare",
-      "mana_cost": "0",
-      "collector_number": "HVY007",
-      "type": "Brute, Weapon, Axe, 1H",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY007.png"
-      }
-  },
-  {
-      "name": "Knucklehead",
-      "rarity": "rare",
-      "mana_cost": "0",
-      "collector_number": "HVY009",
-      "type": "Brute, Equipment, Head",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY009.png"
-      }
-  },
-  {
-      "name": "Monstrous Veil",
-      "rarity": "rare",
-      "mana_cost": "0",
-      "collector_number": "HVY010",
-      "type": "Brute, Equipment, Head",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY010.png"
-      }
-  },
-  {
-      "name": "Raw Meat",
+      "name": "Arousing Wave",
       "rarity": "common",
       "mana_cost": "0",
-      "collector_number": "HVY011",
-      "type": "Brute, Equipment, Chest",
+      "collector_number": "MST006",
+      "type": "special",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY011.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST006.png"
       }
   },
   {
-      "name": "Send Packing (yellow)",
-      "rarity": "majestic",
-      "mana_cost": "2",
-      "collector_number": "HVY012",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY012.png"
-      }
-  },
-  {
-      "name": "Show No Mercy (red)",
-      "rarity": "majestic",
-      "mana_cost": "1",
-      "collector_number": "HVY013",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY013.png"
-      }
-  },
-  {
-      "name": "Cast Bones (red)",
-      "rarity": "majestic",
-      "mana_cost": "1",
-      "collector_number": "HVY014",
-      "type": "Brute, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY014.png"
-      }
-  },
-  {
-      "name": "Reckless Charge (blue)",
-      "rarity": "majestic",
-      "mana_cost": "3",
-      "collector_number": "HVY015",
-      "type": "Brute, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY015.png"
-      }
-  },
-  {
-      "name": "No Fear (red)",
-      "rarity": "majestic",
-      "mana_cost": "1",
-      "collector_number": "HVY016",
-      "type": "Brute, Instant",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY016.png"
-      }
-  },
-  {
-      "name": "Beast Mode (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY017",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY017.png"
-      }
-  },
-  {
-      "name": "Beast Mode (yellow)",
-      "rarity": "rare",
-      "mana_cost": "2",
-      "collector_number": "HVY018",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY018.png"
-      }
-  },
-  {
-      "name": "Beast Mode (blue)",
-      "rarity": "rare",
-      "mana_cost": "3",
-      "collector_number": "HVY019",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY019.png"
-      }
-  },
-  {
-      "name": "Pack Call (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY020",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY020.png"
-      }
-  },
-  {
-      "name": "Pack Call (yellow)",
-      "rarity": "rare",
-      "mana_cost": "2",
-      "collector_number": "HVY021",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY021.png"
-      }
-  },
-  {
-      "name": "Pack Call (blue)",
-      "rarity": "rare",
-      "mana_cost": "3",
-      "collector_number": "HVY022",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY022.png"
-      }
-  },
-  {
-      "name": "Rawhide Rumble (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY023",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY023.png"
-      }
-  },
-  {
-      "name": "Rawhide Rumble (yellow)",
-      "rarity": "rare",
-      "mana_cost": "2",
-      "collector_number": "HVY024",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY024.png"
-      }
-  },
-  {
-      "name": "Rawhide Rumble (blue)",
-      "rarity": "rare",
-      "mana_cost": "3",
-      "collector_number": "HVY025",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY025.png"
-      }
-  },
-  {
-      "name": "Assault and Battery (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY026",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY026.png"
-      }
-  },
-  {
-      "name": "Assault and Battery (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY027",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY027.png"
-      }
-  },
-  {
-      "name": "Assault and Battery (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY028",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY028.png"
-      }
-  },
-  {
-      "name": "Bare Fangs (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY029",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY029.png"
-      }
-  },
-  {
-      "name": "Bare Fangs (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY030",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY030.png"
-      }
-  },
-  {
-      "name": "Bare Fangs (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY031",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY031.png"
-      }
-  },
-  {
-      "name": "Pack Hunt (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY032",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY032.png"
-      }
-  },
-  {
-      "name": "Pack Hunt (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY033",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY033.png"
-      }
-  },
-  {
-      "name": "Pack Hunt (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY034",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY034.png"
-      }
-  },
-  {
-      "name": "Pound Town (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY035",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY035.png"
-      }
-  },
-  {
-      "name": "Pound Town (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY036",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY036.png"
-      }
-  },
-  {
-      "name": "Pound Town (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY037",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY037.png"
-      }
-  },
-  {
-      "name": "Wild Ride (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY038",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY038.png"
-      }
-  },
-  {
-      "name": "Wild Ride (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY039",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY039.png"
-      }
-  },
-  {
-      "name": "Wild Ride (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY040",
-      "type": "Brute, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY040.png"
-      }
-  },
-  {
-      "name": "Bonebreaker Bellow (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY041",
-      "type": "Brute, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY041.png"
-      }
-  },
-  {
-      "name": "Bonebreaker Bellow (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY042",
-      "type": "Brute, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY042.png"
-      }
-  },
-  {
-      "name": "Bonebreaker Bellow (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY043",
-      "type": "Brute, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY043.png"
-      }
-  },
-  {
-      "name": "Smashback Alehorn (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY044",
-      "type": "Brute, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY044.png"
-      }
-  },
-  {
-      "name": "Miller's Grindstone",
-      "rarity": "rare",
-      "mana_cost": "0",
-      "collector_number": "HVY050",
-      "type": "Guardian, Weapon, Hammer, 1H",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY050.png"
-      }
-  },
-  {
-      "name": "Stonewall Impasse",
-      "rarity": "rare",
-      "mana_cost": "0",
-      "collector_number": "HVY052",
-      "type": "Guardian, Equipment, Off-Hand",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY052.png"
-      }
-  },
-  {
-      "name": "Golden Glare",
-      "rarity": "rare",
-      "mana_cost": "0",
-      "collector_number": "HVY054",
-      "type": "Guardian, Equipment, Head",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY054.png"
-      }
-  },
-  {
-      "name": "Good Time Chapeau",
-      "rarity": "rare",
-      "mana_cost": "0",
-      "collector_number": "HVY055",
-      "type": "Guardian, Equipment, Head",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY055.png"
-      }
-  },
-  {
-      "name": "Stand Ground",
+      "name": "Undertow Stilettos",
       "rarity": "common",
       "mana_cost": "0",
-      "collector_number": "HVY056",
-      "type": "Guardian, Equipment, Legs",
+      "collector_number": "MST007",
+      "type": "special",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY056.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST007.png"
       }
   },
   {
-      "name": "Bet Big (red)",
-      "rarity": "majestic",
-      "mana_cost": "1",
-      "collector_number": "HVY057",
-      "type": "Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY057.png"
-      }
-  },
-  {
-      "name": "Primed to Fight (red)",
-      "rarity": "majestic",
-      "mana_cost": "1",
-      "collector_number": "HVY058",
-      "type": "Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY058.png"
-      }
-  },
-  {
-      "name": "The Golden Son (yellow)",
-      "rarity": "majestic",
+      "name": "Gorgon's Gaze (yellow)",
+      "rarity": "mythic",
       "mana_cost": "2",
-      "collector_number": "HVY059",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST008",
+      "type": "Mystic, Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY059.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST008.png"
       }
   },
   {
-      "name": "Boast (blue)",
-      "rarity": "majestic",
-      "mana_cost": "3",
-      "collector_number": "HVY060",
-      "type": "Guardian, Block",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY060.png"
-      }
-  },
-  {
-      "name": "Trounce (red)",
-      "rarity": "majestic",
+      "name": "Siren's Call (red)",
+      "rarity": "mythic",
       "mana_cost": "1",
-      "collector_number": "HVY061",
-      "type": "Guardian, Block",
+      "collector_number": "MST009",
+      "type": "Mystic, Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY061.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST009.png"
       }
   },
   {
-      "name": "Colossal Bearing (red)",
+      "name": "Sacred Art: Undercurrent Desires (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST010",
+      "type": "Mystic, Assassin, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST010.png"
+      }
+  },
+  {
+      "name": "Tide Chakra (red)",
       "rarity": "rare",
       "mana_cost": "1",
-      "collector_number": "HVY062",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST011",
+      "type": "Mystic, Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY062.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST011.png"
       }
   },
   {
-      "name": "Lay Down the Law (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY063",
-      "type": "Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY063.png"
-      }
-  },
-  {
-      "name": "Smack of Reality (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY064",
-      "type": "Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY064.png"
-      }
-  },
-  {
-      "name": "Over the Top (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY065",
-      "type": "Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY065.png"
-      }
-  },
-  {
-      "name": "Over the Top (yellow)",
+      "name": "Tide Chakra (yellow)",
       "rarity": "rare",
       "mana_cost": "2",
-      "collector_number": "HVY066",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST012",
+      "type": "Mystic, Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY066.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST012.png"
       }
   },
   {
-      "name": "Over the Top (blue)",
+      "name": "Tide Chakra (blue)",
       "rarity": "rare",
       "mana_cost": "3",
-      "collector_number": "HVY067",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST013",
+      "type": "Mystic, Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY067.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST013.png"
       }
   },
   {
-      "name": "Stacked in Your Favor (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY068",
-      "type": "Guardian, Action, Aura",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY068.png"
-      }
-  },
-  {
-      "name": "Stacked in Your Favor (yellow)",
-      "rarity": "rare",
-      "mana_cost": "2",
-      "collector_number": "HVY069",
-      "type": "Guardian, Action, Aura",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY069.png"
-      }
-  },
-  {
-      "name": "Stacked in Your Favor (blue)",
-      "rarity": "rare",
-      "mana_cost": "3",
-      "collector_number": "HVY070",
-      "type": "Guardian, Action, Aura",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY070.png"
-      }
-  },
-  {
-      "name": "Command Respect (red)",
+      "name": "Hiss (red)",
       "rarity": "common",
       "mana_cost": "1",
-      "collector_number": "HVY071",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST014",
+      "type": "special",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY071.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST014.png"
       }
   },
   {
-      "name": "Command Respect (yellow)",
+      "name": "Hiss (yellow)",
       "rarity": "common",
       "mana_cost": "2",
-      "collector_number": "HVY072",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST015",
+      "type": "special",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY072.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST015.png"
       }
   },
   {
-      "name": "Command Respect (blue)",
+      "name": "Hiss (blue)",
       "rarity": "common",
       "mana_cost": "3",
-      "collector_number": "HVY073",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST016",
+      "type": "special",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY073.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST016.png"
       }
   },
   {
-      "name": "Concuss (red)",
+      "name": "Intimate Inducement (red)",
       "rarity": "common",
       "mana_cost": "1",
-      "collector_number": "HVY074",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST017",
+      "type": "Mystic, Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY074.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST017.png"
       }
   },
   {
-      "name": "Concuss (yellow)",
+      "name": "Intimate Inducement (yellow)",
       "rarity": "common",
       "mana_cost": "2",
-      "collector_number": "HVY075",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST018",
+      "type": "Mystic, Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY075.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST018.png"
       }
   },
   {
-      "name": "Concuss (blue)",
+      "name": "Intimate Inducement (blue)",
       "rarity": "common",
       "mana_cost": "3",
-      "collector_number": "HVY076",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST019",
+      "type": "Mystic, Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY076.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST019.png"
       }
   },
   {
-      "name": "Thunk (red)",
+      "name": "Venomous Bite (red)",
       "rarity": "common",
       "mana_cost": "1",
-      "collector_number": "HVY077",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST020",
+      "type": "Mystic, Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY077.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST020.png"
       }
   },
   {
-      "name": "Thunk (yellow)",
+      "name": "Venomous Bite (yellow)",
       "rarity": "common",
       "mana_cost": "2",
-      "collector_number": "HVY078",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST021",
+      "type": "Mystic, Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY078.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST021.png"
       }
   },
   {
-      "name": "Thunk (blue)",
+      "name": "Venomous Bite (blue)",
       "rarity": "common",
       "mana_cost": "3",
-      "collector_number": "HVY079",
-      "type": "Guardian, Action, Attack",
+      "collector_number": "MST022",
+      "type": "Mystic, Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY079.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST022.png"
       }
   },
   {
-      "name": "Wallop (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY080",
-      "type": "Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY080.png"
-      }
-  },
-  {
-      "name": "Wallop (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY081",
-      "type": "Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY081.png"
-      }
-  },
-  {
-      "name": "Wallop (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY082",
-      "type": "Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY082.png"
-      }
-  },
-  {
-      "name": "Big Bop (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY083",
-      "type": "Guardian, Action, Aura",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY083.png"
-      }
-  },
-  {
-      "name": "Big Bop (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY084",
-      "type": "Guardian, Action, Aura",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY084.png"
-      }
-  },
-  {
-      "name": "Big Bop (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY085",
-      "type": "Guardian, Action, Aura",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY085.png"
-      }
-  },
-  {
-      "name": "Bigger Than Big (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY086",
-      "type": "Guardian, Action, Aura",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY086.png"
-      }
-  },
-  {
-      "name": "Bigger Than Big (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY087",
-      "type": "Guardian, Action, Aura",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY087.png"
-      }
-  },
-  {
-      "name": "Bigger Than Big (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY088",
-      "type": "Guardian, Action, Aura",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY088.png"
-      }
-  },
-  {
-      "name": "Pint of Strong and Stout (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY089",
-      "type": "Guardian, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY089.png"
-      }
-  },
-  {
-      "name": "Hot Streak",
+      "name": "Heirloom of Rabbit Hide",
       "rarity": "rare",
       "mana_cost": "0",
-      "collector_number": "HVY095",
-      "type": "Warrior, Weapon, Sword, 1H",
+      "collector_number": "MST028",
+      "type": "special",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY095.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST028.png"
       }
   },
   {
-      "name": "Parry Blade",
-      "rarity": "rare",
-      "mana_cost": "0",
-      "collector_number": "HVY096",
-      "type": "Warrior, Weapon, Equipment, Sword, 1H",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY096.png"
-      }
-  },
-  {
-      "name": "Prized Galea",
-      "rarity": "rare",
-      "mana_cost": "0",
-      "collector_number": "HVY098",
-      "type": "Warrior, Equipment, Head",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY098.png"
-      }
-  },
-  {
-      "name": "Hood of Red Sand",
-      "rarity": "rare",
-      "mana_cost": "0",
-      "collector_number": "HVY099",
-      "type": "Warrior, Equipment, Head",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY099.png"
-      }
-  },
-  {
-      "name": "Beckon Applause",
+      "name": "Truths Retold",
       "rarity": "common",
       "mana_cost": "0",
-      "collector_number": "HVY100",
-      "type": "Warrior, Equipment, Arms",
+      "collector_number": "MST029",
+      "type": "special",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY100.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST029.png"
       }
   },
   {
-      "name": "Blade Flurry (red)",
-      "rarity": "majestic",
-      "mana_cost": "1",
-      "collector_number": "HVY101",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY101.png"
-      }
-  },
-  {
-      "name": "Shift the Tide of Battle (yellow)",
-      "rarity": "majestic",
-      "mana_cost": "2",
-      "collector_number": "HVY102",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY102.png"
-      }
-  },
-  {
-      "name": "Up the Ante (blue)",
-      "rarity": "majestic",
-      "mana_cost": "3",
-      "collector_number": "HVY103",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY103.png"
-      }
-  },
-  {
-      "name": "Commanding Performance (red)",
-      "rarity": "majestic",
-      "mana_cost": "1",
-      "collector_number": "HVY104",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY104.png"
-      }
-  },
-  {
-      "name": "Raise an Army (yellow)",
-      "rarity": "majestic",
-      "mana_cost": "2",
-      "collector_number": "HVY105",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY105.png"
-      }
-  },
-  {
-      "name": "Cut the Deck (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY106",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY106.png"
-      }
-  },
-  {
-      "name": "Cut the Deck (yellow)",
-      "rarity": "rare",
-      "mana_cost": "2",
-      "collector_number": "HVY107",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY107.png"
-      }
-  },
-  {
-      "name": "Cut the Deck (blue)",
-      "rarity": "rare",
-      "mana_cost": "3",
-      "collector_number": "HVY108",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY108.png"
-      }
-  },
-  {
-      "name": "Fatal Engagement (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY109",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY109.png"
-      }
-  },
-  {
-      "name": "Fatal Engagement (yellow)",
-      "rarity": "rare",
-      "mana_cost": "2",
-      "collector_number": "HVY110",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY110.png"
-      }
-  },
-  {
-      "name": "Fatal Engagement (blue)",
-      "rarity": "rare",
-      "mana_cost": "3",
-      "collector_number": "HVY111",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY111.png"
-      }
-  },
-  {
-      "name": "Take the Upper Hand (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY112",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY112.png"
-      }
-  },
-  {
-      "name": "Take the Upper Hand (yellow)",
-      "rarity": "rare",
-      "mana_cost": "2",
-      "collector_number": "HVY113",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY113.png"
-      }
-  },
-  {
-      "name": "Take the Upper Hand (blue)",
-      "rarity": "rare",
-      "mana_cost": "3",
-      "collector_number": "HVY114",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY114.png"
-      }
-  },
-  {
-      "name": "Agile Engagement (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY115",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY115.png"
-      }
-  },
-  {
-      "name": "Agile Engagement (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY116",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY116.png"
-      }
-  },
-  {
-      "name": "Agile Engagement (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY117",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY117.png"
-      }
-  },
-  {
-      "name": "Vigorous Engagement (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY118",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY118.png"
-      }
-  },
-  {
-      "name": "Vigorous Engagement (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY119",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY119.png"
-      }
-  },
-  {
-      "name": "Vigorous Engagement (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY120",
-      "type": "Warrior, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY120.png"
-      }
-  },
-  {
-      "name": "Draw Swords (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY121",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY121.png"
-      }
-  },
-  {
-      "name": "Draw Swords (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY122",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY122.png"
-      }
-  },
-  {
-      "name": "Draw Swords (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY123",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY123.png"
-      }
-  },
-  {
-      "name": "Edge Ahead (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY124",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY124.png"
-      }
-  },
-  {
-      "name": "Edge Ahead (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY125",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY125.png"
-      }
-  },
-  {
-      "name": "Edge Ahead (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY126",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY126.png"
-      }
-  },
-  {
-      "name": "Engaged Swiftblade (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY127",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY127.png"
-      }
-  },
-  {
-      "name": "Engaged Swiftblade (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY128",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY128.png"
-      }
-  },
-  {
-      "name": "Engaged Swiftblade (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY129",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY129.png"
-      }
-  },
-  {
-      "name": "Hold 'em (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY130",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY130.png"
-      }
-  },
-  {
-      "name": "Hold 'em (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY131",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY131.png"
-      }
-  },
-  {
-      "name": "Hold 'em (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY132",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY132.png"
-      }
-  },
-  {
-      "name": "Goblet of Bloodrun Wine (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY133",
-      "type": "Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY133.png"
-      }
-  },
-  {
-      "name": "Gauntlet of Might",
+      "name": "Uphold Tradition",
       "rarity": "common",
       "mana_cost": "0",
-      "collector_number": "HVY135",
-      "type": "Brute, Guardian, Equipment, Arms",
+      "collector_number": "MST030",
+      "type": "special",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY135.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST030.png"
       }
   },
   {
-      "name": "Talk a Big Game (blue)",
-      "rarity": "majestic",
+      "name": "Manifestation of Miragai (blue)",
+      "rarity": "mythic",
       "mana_cost": "3",
-      "collector_number": "HVY136",
-      "type": "Brute, Guardian, Action",
+      "collector_number": "MST031",
+      "type": "Mystic, Illusionist, Instant, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY136.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST031.png"
       }
   },
   {
-      "name": "Clash of Might (red)",
+      "name": "Sacred Art: Immortal Lunar Shrine (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST032",
+      "type": "Mystic, Illusionist, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST032.png"
+      }
+  },
+  {
+      "name": "Three Visits (red)",
+      "rarity": "mythic",
+      "mana_cost": "1",
+      "collector_number": "MST033",
+      "type": "Mystic, Illusionist, Instant, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST033.png"
+      }
+  },
+  {
+      "name": "Moon Chakra (red)",
       "rarity": "rare",
       "mana_cost": "1",
-      "collector_number": "HVY137",
-      "type": "Brute, Guardian, Action, Attack",
+      "collector_number": "MST034",
+      "type": "Mystic, Illusionist, Instant",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY137.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST034.png"
       }
   },
   {
-      "name": "Clash of Might (yellow)",
+      "name": "Moon Chakra (yellow)",
       "rarity": "rare",
       "mana_cost": "2",
-      "collector_number": "HVY138",
-      "type": "Brute, Guardian, Action, Attack",
+      "collector_number": "MST035",
+      "type": "Mystic, Illusionist, Instant",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY138.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST035.png"
       }
   },
   {
-      "name": "Clash of Might (blue)",
+      "name": "Moon Chakra (blue)",
       "rarity": "rare",
       "mana_cost": "3",
-      "collector_number": "HVY139",
-      "type": "Brute, Guardian, Action, Attack",
+      "collector_number": "MST036",
+      "type": "Mystic, Illusionist, Instant",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY139.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST036.png"
       }
   },
   {
-      "name": "Battered Not Broken (red)",
+      "name": "Haze Shelter (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST037",
+      "type": "Mystic, Illusionist, Instant, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST037.png"
+      }
+  },
+  {
+      "name": "Haze Shelter (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST038",
+      "type": "Mystic, Illusionist, Instant, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST038.png"
+      }
+  },
+  {
+      "name": "Haze Shelter (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST039",
+      "type": "Mystic, Illusionist, Instant, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST039.png"
+      }
+  },
+  {
+      "name": "Waning Vengeance (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST040",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST040.png"
+      }
+  },
+  {
+      "name": "Waning Vengeance (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST041",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST041.png"
+      }
+  },
+  {
+      "name": "Waning Vengeance (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST042",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST042.png"
+      }
+  },
+  {
+      "name": "Waxing Specter (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST043",
+      "type": "Mystic, Illusionist, Instant, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST043.png"
+      }
+  },
+  {
+      "name": "Waxing Specter (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST044",
+      "type": "Mystic, Illusionist, Instant, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST044.png"
+      }
+  },
+  {
+      "name": "Waxing Specter (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST045",
+      "type": "Mystic, Illusionist, Instant, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST045.png"
+      }
+  },
+  {
+      "name": "Heirloom of Tiger Hide",
       "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY140",
-      "type": "Brute, Guardian, Instant",
+      "mana_cost": "0",
+      "collector_number": "MST049",
+      "type": "special",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY140.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST049.png"
       }
   },
   {
-      "name": "Test of Might (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY141",
-      "type": "Brute, Guardian, Block",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY141.png"
-      }
-  },
-  {
-      "name": "Wall of Meat and Muscle (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY142",
-      "type": "Brute, Guardian, Block",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY142.png"
-      }
-  },
-  {
-      "name": "Mighty Windup (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY143",
-      "type": "Brute, Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY143.png"
-      }
-  },
-  {
-      "name": "Mighty Windup (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY144",
-      "type": "Brute, Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY144.png"
-      }
-  },
-  {
-      "name": "Mighty Windup (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY145",
-      "type": "Brute, Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY145.png"
-      }
-  },
-  {
-      "name": "Rising Power (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY146",
-      "type": "Brute, Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY146.png"
-      }
-  },
-  {
-      "name": "Rising Power (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY147",
-      "type": "Brute, Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY147.png"
-      }
-  },
-  {
-      "name": "Rising Power (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY148",
-      "type": "Brute, Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY148.png"
-      }
-  },
-  {
-      "name": "Wage Might (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY149",
-      "type": "Brute, Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY149.png"
-      }
-  },
-  {
-      "name": "Wage Might (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY150",
-      "type": "Brute, Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY150.png"
-      }
-  },
-  {
-      "name": "Wage Might (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY151",
-      "type": "Brute, Guardian, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY151.png"
-      }
-  },
-  {
-      "name": "Lead with Power (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY152",
-      "type": "Brute, Guardian, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY152.png"
-      }
-  },
-  {
-      "name": "Lead with Power (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY153",
-      "type": "Brute, Guardian, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY153.png"
-      }
-  },
-  {
-      "name": "Lead with Power (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY154",
-      "type": "Brute, Guardian, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY154.png"
-      }
-  },
-  {
-      "name": "Flat Trackers",
+      "name": "Stride of Reprisal",
       "rarity": "common",
       "mana_cost": "0",
-      "collector_number": "HVY155",
-      "type": "Brute, Warrior, Equipment, Legs",
+      "collector_number": "MST050",
+      "type": "special",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY155.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST050.png"
       }
   },
   {
-      "name": "Runner Runner (red)",
-      "rarity": "majestic",
+      "name": "Tooth and Claw (red)",
+      "rarity": "mythic",
       "mana_cost": "1",
-      "collector_number": "HVY156",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST051",
+      "type": "Mystic, Ninja, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY156.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST051.png"
       }
   },
   {
-      "name": "Clash of Agility (red)",
+      "name": "Shifting Winds of the Mystic Beast (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST052",
+      "type": "Mystic, Ninja, Action",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST052.png"
+      }
+  },
+  {
+      "name": "Sacred Art: Jade Tiger Domain (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST053",
+      "type": "Mystic, Ninja, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST053.png"
+      }
+  },
+  {
+      "name": "Wind Chakra (red)",
       "rarity": "rare",
       "mana_cost": "1",
-      "collector_number": "HVY157",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST054",
+      "type": "Mystic, Ninja, Action",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY157.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST054.png"
       }
   },
   {
-      "name": "Clash of Agility (yellow)",
+      "name": "Wind Chakra (yellow)",
       "rarity": "rare",
       "mana_cost": "2",
-      "collector_number": "HVY158",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST055",
+      "type": "Mystic, Ninja, Action",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY158.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST055.png"
       }
   },
   {
-      "name": "Clash of Agility (blue)",
+      "name": "Wind Chakra (blue)",
       "rarity": "rare",
       "mana_cost": "3",
-      "collector_number": "HVY159",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST056",
+      "type": "Mystic, Ninja, Action",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY159.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST056.png"
       }
   },
   {
-      "name": "Take it on the Chin (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY160",
-      "type": "Brute, Warrior, Instant",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY160.png"
-      }
-  },
-  {
-      "name": "Run into Trouble (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY161",
-      "type": "Brute, Warrior, Block",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY161.png"
-      }
-  },
-  {
-      "name": "Test of Agility (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY162",
-      "type": "Brute, Warrior, Block",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY162.png"
-      }
-  },
-  {
-      "name": "Agile Windup (red)",
+      "name": "Companion of the Claw (red)",
       "rarity": "common",
       "mana_cost": "1",
-      "collector_number": "HVY163",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST057",
+      "type": "Mystic, Ninja, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY163.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST057.png"
       }
   },
   {
-      "name": "Agile Windup (yellow)",
+      "name": "Companion of the Claw (yellow)",
       "rarity": "common",
       "mana_cost": "2",
-      "collector_number": "HVY164",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST058",
+      "type": "Mystic, Ninja, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY164.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST058.png"
       }
   },
   {
-      "name": "Agile Windup (blue)",
+      "name": "Companion of the Claw (blue)",
       "rarity": "common",
       "mana_cost": "3",
-      "collector_number": "HVY165",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST059",
+      "type": "Mystic, Ninja, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY165.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST059.png"
       }
   },
   {
-      "name": "Rising Speed (red)",
+      "name": "Harmony of the Hunt (red)",
       "rarity": "common",
       "mana_cost": "1",
-      "collector_number": "HVY166",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST060",
+      "type": "Mystic, Ninja, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY166.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST060.png"
       }
   },
   {
-      "name": "Rising Speed (yellow)",
+      "name": "Harmony of the Hunt (yellow)",
       "rarity": "common",
       "mana_cost": "2",
-      "collector_number": "HVY167",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST061",
+      "type": "Mystic, Ninja, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY167.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST061.png"
       }
   },
   {
-      "name": "Rising Speed (blue)",
+      "name": "Harmony of the Hunt (blue)",
       "rarity": "common",
       "mana_cost": "3",
-      "collector_number": "HVY168",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST062",
+      "type": "Mystic, Ninja, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY168.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST062.png"
       }
   },
   {
-      "name": "Wage Agility (red)",
+      "name": "Tiger Form Incantation (red)",
       "rarity": "common",
       "mana_cost": "1",
-      "collector_number": "HVY169",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST063",
+      "type": "Mystic, Ninja, Action",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY169.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST063.png"
       }
   },
   {
-      "name": "Wage Agility (yellow)",
+      "name": "Tiger Form Incantation (yellow)",
       "rarity": "common",
       "mana_cost": "2",
-      "collector_number": "HVY170",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST064",
+      "type": "Mystic, Ninja, Action",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY170.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST064.png"
       }
   },
   {
-      "name": "Wage Agility (blue)",
+      "name": "Tiger Form Incantation (blue)",
       "rarity": "common",
       "mana_cost": "3",
-      "collector_number": "HVY171",
-      "type": "Brute, Warrior, Action, Attack",
+      "collector_number": "MST065",
+      "type": "Mystic, Ninja, Action",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY171.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST065.png"
       }
   },
   {
-      "name": "Lead with Speed (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY172",
-      "type": "Brute, Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY172.png"
-      }
-  },
-  {
-      "name": "Lead with Speed (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY173",
-      "type": "Brute, Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY173.png"
-      }
-  },
-  {
-      "name": "Lead with Speed (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY174",
-      "type": "Brute, Warrior, Action",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY174.png"
-      }
-  },
-  {
-      "name": "Vigor Girth",
+      "name": "Aqua Seeing Shell",
       "rarity": "common",
       "mana_cost": "0",
-      "collector_number": "HVY175",
-      "type": "Guardian, Warrior, Equipment, Chest",
+      "collector_number": "MST067",
+      "type": "Mystic, Equipment, Head",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY175.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST067.png"
       }
   },
   {
-      "name": "Double Down (red)",
-      "rarity": "majestic",
+      "name": "Koi Blessed Kimono",
+      "rarity": "common",
+      "mana_cost": "0",
+      "collector_number": "MST068",
+      "type": "Mystic, Equipment, Chest",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST068.png"
+      }
+  },
+  {
+      "name": "Waves of Aqua Marine",
+      "rarity": "common",
+      "mana_cost": "0",
+      "collector_number": "MST069",
+      "type": "Mystic, Equipment, Arms",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST069.png"
+      }
+  },
+  {
+      "name": "Aqua Laps",
+      "rarity": "common",
+      "mana_cost": "0",
+      "collector_number": "MST070",
+      "type": "Mystic, Equipment, Legs",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST070.png"
+      }
+  },
+  {
+      "name": "Skycrest Keikoi",
+      "rarity": "common",
+      "mana_cost": "0",
+      "collector_number": "MST071",
+      "type": "Mystic, Equipment, Head",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST071.png"
+      }
+  },
+  {
+      "name": "Skybody Keikoi",
+      "rarity": "common",
+      "mana_cost": "0",
+      "collector_number": "MST072",
+      "type": "Mystic, Equipment, Chest",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST072.png"
+      }
+  },
+  {
+      "name": "Skyhold Keikoi",
+      "rarity": "common",
+      "mana_cost": "0",
+      "collector_number": "MST073",
+      "type": "Mystic, Equipment, Arms",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST073.png"
+      }
+  },
+  {
+      "name": "Skywalker Keikoi",
+      "rarity": "common",
+      "mana_cost": "0",
+      "collector_number": "MST074",
+      "type": "Mystic, Equipment, Legs",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST074.png"
+      }
+  },
+  {
+      "name": "Attune with Cosmic Vibrations (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST075",
+      "type": "Mystic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST075.png"
+      }
+  },
+  {
+      "name": "Cosmic Awakening (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST076",
+      "type": "Mystic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST076.png"
+      }
+  },
+  {
+      "name": "Levels of Enlightenment (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST077",
+      "type": "Mystic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST077.png"
+      }
+  },
+  {
+      "name": "Unravel Aggression (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST078",
+      "type": "Mystic, Defense Reaction",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST078.png"
+      }
+  },
+  {
+      "name": "Dense Blue Mist (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST079",
+      "type": "Mystic, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST079.png"
+      }
+  },
+  {
+      "name": "Orihon of Mystic Tenets (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST080",
+      "type": "Mystic, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST080.png"
+      }
+  },
+  {
+      "name": "Second Tenet of Chi: Moon (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST081",
+      "type": "Mystic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST081.png"
+      }
+  },
+  {
+      "name": "Second Tenet of Chi: Tide (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST082",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST082.png"
+      }
+  },
+  {
+      "name": "Second Tenet of Chi: Wind (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST083",
+      "type": "Mystic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST083.png"
+      }
+  },
+  {
+      "name": "Deep Blue Sea (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST084",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST084.png"
+      }
+  },
+  {
+      "name": "Wide Blue Yonder (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST085",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST085.png"
+      }
+  },
+  {
+      "name": "Big Blue Sky (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST086",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST086.png"
+      }
+  },
+  {
+      "name": "Droplet (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST087",
+      "type": "Mystic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST087.png"
+      }
+  },
+  {
+      "name": "Rising Tide (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST088",
+      "type": "Mystic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST088.png"
+      }
+  },
+  {
+      "name": "Spillover (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST089",
+      "type": "Mystic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST089.png"
+      }
+  },
+  {
+      "name": "Tidal Surge (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST090",
+      "type": "Mystic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST090.png"
+      }
+  },
+  {
+      "name": "Wash Away (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST091",
+      "type": "Mystic, Defense Reaction",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST091.png"
+      }
+  },
+  {
+      "name": "First Tenet of Chi: Moon (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST092",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST092.png"
+      }
+  },
+  {
+      "name": "First Tenet of Chi: Tide (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST093",
+      "type": "Mystic, Action",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST093.png"
+      }
+  },
+  {
+      "name": "First Tenet of Chi: Wind (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST094",
+      "type": "Mystic, Action",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST094.png"
+      }
+  },
+  {
+      "name": "A Drop in the Ocean (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST095",
+      "type": "Mystic, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST095.png"
+      }
+  },
+  {
+      "name": "Homage to Ancestors (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST096",
+      "type": "Mystic, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST096.png"
+      }
+  },
+  {
+      "name": "Pass Over (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST097",
+      "type": "Mystic, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST097.png"
+      }
+  },
+  {
+      "name": "Path Well Traveled (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST098",
+      "type": "Mystic, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST098.png"
+      }
+  },
+  {
+      "name": "Preserve Tradition (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST099",
+      "type": "Mystic, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST099.png"
+      }
+  },
+  {
+      "name": "Rising Sun, Setting Moon (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST100",
+      "type": "Mystic, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST100.png"
+      }
+  },
+  {
+      "name": "Stir the Pot (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST101",
+      "type": "Mystic, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST101.png"
+      }
+  },
+  {
+      "name": "The Grain that Tips the Scale (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST102",
+      "type": "Mystic, Instant",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST102.png"
+      }
+  },
+  {
+      "name": "Bonds of Agony (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST103",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST103.png"
+      }
+  },
+  {
+      "name": "Persuasive Prognosis (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST104",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST104.png"
+      }
+  },
+  {
+      "name": "Just a Nick (red)",
+      "rarity": "mythic",
       "mana_cost": "1",
-      "collector_number": "HVY176",
-      "type": "Guardian, Warrior, Action",
+      "collector_number": "MST105",
+      "type": "Assassin, Attack Reaction",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY176.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST105.png"
       }
   },
   {
-      "name": "Clash of Vigor (red)",
+      "name": "Art of Desire: Body (red)",
       "rarity": "rare",
       "mana_cost": "1",
-      "collector_number": "HVY177",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST106",
+      "type": "Assassin, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY177.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST106.png"
       }
   },
   {
-      "name": "Clash of Vigor (yellow)",
+      "name": "Art of Desire: Soul (yellow)",
       "rarity": "rare",
       "mana_cost": "2",
-      "collector_number": "HVY178",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST107",
+      "type": "Assassin, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY178.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST107.png"
       }
   },
   {
-      "name": "Clash of Vigor (blue)",
+      "name": "Art of Desire: Mind (blue)",
       "rarity": "rare",
       "mana_cost": "3",
-      "collector_number": "HVY179",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST108",
+      "type": "Assassin, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY179.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST108.png"
       }
   },
   {
-      "name": "Slap-Happy (red)",
+      "name": "Bonds of Attraction (red)",
       "rarity": "rare",
       "mana_cost": "1",
-      "collector_number": "HVY180",
-      "type": "Guardian, Warrior, Instant",
+      "collector_number": "MST109",
+      "type": "Assassin, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY180.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST109.png"
       }
   },
   {
-      "name": "Hearty Block (red)",
+      "name": "Bonds of Attraction (yellow)",
+      "rarity": "rare",
+      "mana_cost": "2",
+      "collector_number": "MST110",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST110.png"
+      }
+  },
+  {
+      "name": "Bonds of Attraction (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST111",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST111.png"
+      }
+  },
+  {
+      "name": "Double Trouble (red)",
       "rarity": "rare",
       "mana_cost": "1",
-      "collector_number": "HVY181",
-      "type": "Guardian, Warrior, Block",
+      "collector_number": "MST112",
+      "type": "Assassin, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY181.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST112.png"
       }
   },
   {
-      "name": "Test of Vigor (red)",
+      "name": "Double Trouble (yellow)",
+      "rarity": "rare",
+      "mana_cost": "2",
+      "collector_number": "MST113",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST113.png"
+      }
+  },
+  {
+      "name": "Double Trouble (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST114",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST114.png"
+      }
+  },
+  {
+      "name": "Bonds of Memory (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST115",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST115.png"
+      }
+  },
+  {
+      "name": "Bonds of Memory (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST116",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST116.png"
+      }
+  },
+  {
+      "name": "Bonds of Memory (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST117",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST117.png"
+      }
+  },
+  {
+      "name": "Desires of Flesh (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST118",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST118.png"
+      }
+  },
+  {
+      "name": "Desires of Flesh (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST119",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST119.png"
+      }
+  },
+  {
+      "name": "Desires of Flesh (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST120",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST120.png"
+      }
+  },
+  {
+      "name": "Impulsive Desire (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST121",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST121.png"
+      }
+  },
+  {
+      "name": "Impulsive Desire (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST122",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST122.png"
+      }
+  },
+  {
+      "name": "Impulsive Desire (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST123",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST123.png"
+      }
+  },
+  {
+      "name": "Mind's Desire (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST124",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST124.png"
+      }
+  },
+  {
+      "name": "Mind's Desire (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST125",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST125.png"
+      }
+  },
+  {
+      "name": "Mind's Desire (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST126",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST126.png"
+      }
+  },
+  {
+      "name": "Pick to Pieces (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST127",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST127.png"
+      }
+  },
+  {
+      "name": "Pick to Pieces (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST128",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST128.png"
+      }
+  },
+  {
+      "name": "Pick to Pieces (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST129",
+      "type": "Assassin, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST129.png"
+      }
+  },
+  {
+      "name": "10,000 Year Reunion (red)",
+      "rarity": "mythic",
+      "mana_cost": "1",
+      "collector_number": "MST131",
+      "type": "Illusionist, Action, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST131.png"
+      }
+  },
+  {
+      "name": "Rage Specter (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST132",
+      "type": "Illusionist, Action, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST132.png"
+      }
+  },
+  {
+      "name": "Restless Coalescence (yellow)",
+      "rarity": "mythic",
+      "mana_cost": "2",
+      "collector_number": "MST133",
+      "type": "Illusionist, Action, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST133.png"
+      }
+  },
+  {
+      "name": "Astral Etchings (red)",
       "rarity": "rare",
       "mana_cost": "1",
-      "collector_number": "HVY182",
-      "type": "Guardian, Warrior, Block",
+      "collector_number": "MST134",
+      "type": "Illusionist, Action",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY182.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST134.png"
       }
   },
   {
-      "name": "Rising Energy (red)",
+      "name": "Astral Etchings (yellow)",
+      "rarity": "rare",
+      "mana_cost": "2",
+      "collector_number": "MST135",
+      "type": "Illusionist, Action",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST135.png"
+      }
+  },
+  {
+      "name": "Astral Etchings (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST136",
+      "type": "Illusionist, Action",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST136.png"
+      }
+  },
+  {
+      "name": "Essence of Ancestry: Body (red)",
+      "rarity": "rare",
+      "mana_cost": "1",
+      "collector_number": "MST137",
+      "type": "Illusionist, Action, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST137.png"
+      }
+  },
+  {
+      "name": "Essence of Ancestry: Soul (yellow)",
+      "rarity": "rare",
+      "mana_cost": "2",
+      "collector_number": "MST138",
+      "type": "Illusionist, Action, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST138.png"
+      }
+  },
+  {
+      "name": "Essence of Ancestry: Mind (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST139",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST139.png"
+      }
+  },
+  {
+      "name": "Haunting Specter (red)",
+      "rarity": "rare",
+      "mana_cost": "1",
+      "collector_number": "MST140",
+      "type": "Illusionist, Action, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST140.png"
+      }
+  },
+  {
+      "name": "Haunting Specter (yellow)",
+      "rarity": "rare",
+      "mana_cost": "2",
+      "collector_number": "MST141",
+      "type": "Illusionist, Action, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST141.png"
+      }
+  },
+  {
+      "name": "Haunting Specter (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST142",
+      "type": "Illusionist, Action, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST142.png"
+      }
+  },
+  {
+      "name": "Sigil of Solitude (red)",
       "rarity": "common",
       "mana_cost": "1",
-      "collector_number": "HVY183",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST143",
+      "type": "Illusionist, Action, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY183.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST143.png"
       }
   },
   {
-      "name": "Rising Energy (yellow)",
+      "name": "Sigil of Solitude (yellow)",
       "rarity": "common",
       "mana_cost": "2",
-      "collector_number": "HVY184",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST144",
+      "type": "Illusionist, Action, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY184.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST144.png"
       }
   },
   {
-      "name": "Rising Energy (blue)",
+      "name": "Sigil of Solitude (blue)",
       "rarity": "common",
       "mana_cost": "3",
-      "collector_number": "HVY185",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST145",
+      "type": "Illusionist, Action, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY185.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST145.png"
       }
   },
   {
-      "name": "Vigorous Windup (red)",
+      "name": "Single Minded Determination (red)",
       "rarity": "common",
       "mana_cost": "1",
-      "collector_number": "HVY186",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST146",
+      "type": "Illusionist, Action, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY186.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST146.png"
       }
   },
   {
-      "name": "Vigorous Windup (yellow)",
+      "name": "Single Minded Determination (yellow)",
       "rarity": "common",
       "mana_cost": "2",
-      "collector_number": "HVY187",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST147",
+      "type": "Illusionist, Action, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY187.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST147.png"
       }
   },
   {
-      "name": "Vigorous Windup (blue)",
+      "name": "Single Minded Determination (blue)",
       "rarity": "common",
       "mana_cost": "3",
-      "collector_number": "HVY188",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST148",
+      "type": "Illusionist, Action, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY188.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST148.png"
       }
   },
   {
-      "name": "Wage Vigor (red)",
+      "name": "Solitary Companion (red)",
       "rarity": "common",
       "mana_cost": "1",
-      "collector_number": "HVY189",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST149",
+      "type": "Illusionist, Action, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY189.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST149.png"
       }
   },
   {
-      "name": "Wage Vigor (yellow)",
+      "name": "Solitary Companion (yellow)",
       "rarity": "common",
       "mana_cost": "2",
-      "collector_number": "HVY190",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST150",
+      "type": "Illusionist, Action, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY190.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST150.png"
       }
   },
   {
-      "name": "Wage Vigor (blue)",
+      "name": "Solitary Companion (blue)",
       "rarity": "common",
       "mana_cost": "3",
-      "collector_number": "HVY191",
-      "type": "Guardian, Warrior, Action, Attack",
+      "collector_number": "MST151",
+      "type": "Illusionist, Action, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY191.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST151.png"
       }
   },
   {
-      "name": "Lead with Heart (red)",
+      "name": "Spectral Manifestations (red)",
       "rarity": "common",
       "mana_cost": "1",
-      "collector_number": "HVY192",
-      "type": "Guardian, Warrior, Action",
+      "collector_number": "MST152",
+      "type": "Illusionist, Action",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY192.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST152.png"
       }
   },
   {
-      "name": "Lead with Heart (yellow)",
+      "name": "Spectral Manifestations (yellow)",
       "rarity": "common",
       "mana_cost": "2",
-      "collector_number": "HVY193",
-      "type": "Guardian, Warrior, Action",
+      "collector_number": "MST153",
+      "type": "Illusionist, Action",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY193.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST153.png"
       }
   },
   {
-      "name": "Lead with Heart (blue)",
+      "name": "Spectral Manifestations (blue)",
       "rarity": "common",
       "mana_cost": "3",
-      "collector_number": "HVY194",
-      "type": "Guardian, Warrior, Action",
+      "collector_number": "MST154",
+      "type": "Illusionist, Action",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY194.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST154.png"
       }
   },
   {
-      "name": "Glory Seeker",
+      "name": "Vengeful Apparition (red)",
       "rarity": "common",
-      "mana_cost": "0",
-      "collector_number": "HVY196",
-      "type": "Generic, Equipment, Head",
+      "mana_cost": "1",
+      "collector_number": "MST155",
+      "type": "Illusionist, Action, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY196.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST155.png"
       }
   },
   {
-      "name": "Sheltered Cove",
+      "name": "Vengeful Apparition (yellow)",
       "rarity": "common",
-      "mana_cost": "0",
-      "collector_number": "HVY197",
-      "type": "Generic, Equipment, Head",
+      "mana_cost": "2",
+      "collector_number": "MST156",
+      "type": "Illusionist, Action, Aura",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY197.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST156.png"
       }
   },
   {
-      "name": "Face Adversity",
+      "name": "Vengeful Apparition (blue)",
       "rarity": "common",
-      "mana_cost": "0",
-      "collector_number": "HVY198",
-      "type": "Generic, Equipment, Head",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY198.png"
-      }
-  },
-  {
-      "name": "Confront Adversity",
-      "rarity": "common",
-      "mana_cost": "0",
-      "collector_number": "HVY199",
-      "type": "Generic, Equipment, Chest",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY199.png"
-      }
-  },
-  {
-      "name": "Embrace Adversity",
-      "rarity": "common",
-      "mana_cost": "0",
-      "collector_number": "HVY200",
-      "type": "Generic, Equipment, Arms",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY200.png"
-      }
-  },
-  {
-      "name": "Overcome Adversity",
-      "rarity": "common",
-      "mana_cost": "0",
-      "collector_number": "HVY201",
-      "type": "Generic, Equipment, Legs",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY201.png"
-      }
-  },
-  {
-      "name": "Headliner Helm",
-      "rarity": "common",
-      "mana_cost": "0",
-      "collector_number": "HVY202",
-      "type": "Generic, Equipment, Head",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY202.png"
-      }
-  },
-  {
-      "name": "Stadium Centerpiece",
-      "rarity": "common",
-      "mana_cost": "0",
-      "collector_number": "HVY203",
-      "type": "Generic, Equipment, Chest",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY203.png"
-      }
-  },
-  {
-      "name": "Ticket Puncher",
-      "rarity": "common",
-      "mana_cost": "0",
-      "collector_number": "HVY204",
-      "type": "Generic, Equipment, Arms",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY204.png"
-      }
-  },
-  {
-      "name": "Grandstand Legplates",
-      "rarity": "common",
-      "mana_cost": "0",
-      "collector_number": "HVY205",
-      "type": "Generic, Equipment, Legs",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY205.png"
-      }
-  },
-  {
-      "name": "Bloodied Oval",
-      "rarity": "common",
-      "mana_cost": "0",
-      "collector_number": "HVY206",
-      "type": "Generic, Equipment, Off-Hand",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY206.png"
-      }
-  },
-  {
-      "name": "Nasty Surprise (blue)",
-      "rarity": "majestic",
       "mana_cost": "3",
-      "collector_number": "HVY207",
+      "collector_number": "MST157",
+      "type": "Illusionist, Action, Aura",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST157.png"
+      }
+  },
+  {
+      "name": "Mask of Wizened Whiskers",
+      "rarity": "common",
+      "mana_cost": "0",
+      "collector_number": "MST160",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST160.png"
+      }
+  },
+  {
+      "name": "Chase the Tail (red)",
+      "rarity": "mythic",
+      "mana_cost": "1",
+      "collector_number": "MST161",
+      "type": "Ninja, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST161.png"
+      }
+  },
+  {
+      "name": "Maul (yellow)",
+      "rarity": "mythic",
+      "mana_cost": "2",
+      "collector_number": "MST162",
+      "type": "Ninja, Attack Reaction",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST162.png"
+      }
+  },
+  {
+      "name": "Territorial Domain (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST163",
+      "type": "Ninja, Defense Reaction",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST163.png"
+      }
+  },
+  {
+      "name": "Aspect of Tiger: Body (red)",
+      "rarity": "rare",
+      "mana_cost": "1",
+      "collector_number": "MST164",
+      "type": "Ninja, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST164.png"
+      }
+  },
+  {
+      "name": "Aspect of Tiger: Soul (yellow)",
+      "rarity": "rare",
+      "mana_cost": "2",
+      "collector_number": "MST165",
+      "type": "Ninja, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST165.png"
+      }
+  },
+  {
+      "name": "Aspect of Tiger: Mind (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST166",
+      "type": "Ninja, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST166.png"
+      }
+  },
+  {
+      "name": "Qi Unleashed (red)",
+      "rarity": "rare",
+      "mana_cost": "1",
+      "collector_number": "MST167",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST167.png"
+      }
+  },
+  {
+      "name": "Qi Unleashed (yellow)",
+      "rarity": "rare",
+      "mana_cost": "2",
+      "collector_number": "MST168",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST168.png"
+      }
+  },
+  {
+      "name": "Qi Unleashed (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST169",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST169.png"
+      }
+  },
+  {
+      "name": "Blessing of Qi (red)",
+      "rarity": "rare",
+      "mana_cost": "1",
+      "collector_number": "MST170",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST170.png"
+      }
+  },
+  {
+      "name": "Blessing of Qi (yellow)",
+      "rarity": "rare",
+      "mana_cost": "2",
+      "collector_number": "MST171",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST171.png"
+      }
+  },
+  {
+      "name": "Blessing of Qi (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST172",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST172.png"
+      }
+  },
+  {
+      "name": "Biting Breeze (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST173",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST173.png"
+      }
+  },
+  {
+      "name": "Biting Breeze (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST174",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST174.png"
+      }
+  },
+  {
+      "name": "Biting Breeze (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST175",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST175.png"
+      }
+  },
+  {
+      "name": "Breed Anger (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST176",
+      "type": "Ninja, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST176.png"
+      }
+  },
+  {
+      "name": "Breed Anger (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST177",
+      "type": "Ninja, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST177.png"
+      }
+  },
+  {
+      "name": "Breed Anger (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST178",
+      "type": "Ninja, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST178.png"
+      }
+  },
+  {
+      "name": "Flex Claws (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST179",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST179.png"
+      }
+  },
+  {
+      "name": "Flex Claws (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST180",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST180.png"
+      }
+  },
+  {
+      "name": "Flex Claws (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST181",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST181.png"
+      }
+  },
+  {
+      "name": "Pouncing Qi (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST182",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST182.png"
+      }
+  },
+  {
+      "name": "Pouncing Qi (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST183",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST183.png"
+      }
+  },
+  {
+      "name": "Pouncing Qi (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST184",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST184.png"
+      }
+  },
+  {
+      "name": "Untamed (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST185",
+      "type": "Ninja, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST185.png"
+      }
+  },
+  {
+      "name": "Untamed (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST186",
+      "type": "Ninja, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST186.png"
+      }
+  },
+  {
+      "name": "Untamed (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST187",
+      "type": "Ninja, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST187.png"
+      }
+  },
+  {
+      "name": "Rowdy Locals (blue)",
+      "rarity": "mythic",
+      "mana_cost": "3",
+      "collector_number": "MST191",
       "type": "Generic, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY207.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST191.png"
       }
   },
   {
-      "name": "Pay Up (red)",
-      "rarity": "majestic",
+      "name": "The Weakest Link (red)",
+      "rarity": "mythic",
       "mana_cost": "1",
-      "collector_number": "HVY208",
+      "collector_number": "MST192",
       "type": "Generic, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY208.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST192.png"
       }
   },
   {
-      "name": "Ripple Away (blue)",
-      "rarity": "majestic",
-      "mana_cost": "3",
-      "collector_number": "HVY209",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY209.png"
-      }
-  },
-  {
-      "name": "Standing Order (red)",
-      "rarity": "majestic",
-      "mana_cost": "1",
-      "collector_number": "HVY210",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY210.png"
-      }
-  },
-  {
-      "name": "Tenacity (yellow)",
-      "rarity": "majestic",
+      "name": "Prismatic Leyline (yellow)",
+      "rarity": "mythic",
       "mana_cost": "2",
-      "collector_number": "HVY211",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY211.png"
-      }
-  },
-  {
-      "name": "Seduce Secrets (yellow)",
-      "rarity": "majestic",
-      "mana_cost": "2",
-      "collector_number": "HVY212",
-      "type": "Generic, Instant",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY212.png"
-      }
-  },
-  {
-      "name": "Down But Not Out (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY213",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY213.png"
-      }
-  },
-  {
-      "name": "Down But Not Out (yellow)",
-      "rarity": "rare",
-      "mana_cost": "2",
-      "collector_number": "HVY214",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY214.png"
-      }
-  },
-  {
-      "name": "Down But Not Out (blue)",
-      "rarity": "rare",
-      "mana_cost": "3",
-      "collector_number": "HVY215",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY215.png"
-      }
-  },
-  {
-      "name": "Wage Gold (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY216",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY216.png"
-      }
-  },
-  {
-      "name": "Wage Gold (yellow)",
-      "rarity": "rare",
-      "mana_cost": "2",
-      "collector_number": "HVY217",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY217.png"
-      }
-  },
-  {
-      "name": "Wage Gold (blue)",
-      "rarity": "rare",
-      "mana_cost": "3",
-      "collector_number": "HVY218",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY218.png"
-      }
-  },
-  {
-      "name": "Reinforce the Line (red)",
-      "rarity": "rare",
-      "mana_cost": "1",
-      "collector_number": "HVY219",
-      "type": "Generic, Instant",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU189.png"
-      }
-  },
-  {
-      "name": "Reinforce the Line (yellow)",
-      "rarity": "rare",
-      "mana_cost": "2",
-      "collector_number": "HVY220",
-      "type": "Generic, Instant",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2020-CRU/CRU190.png"
-      }
-  },
-  {
-      "name": "Reinforce the Line (blue)",
-      "rarity": "rare",
-      "mana_cost": "3",
-      "collector_number": "HVY221",
-      "type": "Generic, Instant",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2021-U-CRU/U-CRU191.png"
-      }
-  },
-  {
-      "name": "Adrenaline Rush (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY222",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/media/images/MON263.width-450.png"
-      }
-  },
-  {
-      "name": "Adrenaline Rush (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY223",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/media/images/MON264.width-450.png"
-      }
-  },
-  {
-      "name": "Adrenaline Rush (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY224",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/media/images/MON265.width-450.png"
-      }
-  },
-  {
-      "name": "Performance Bonus (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY225",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY225.png"
-      }
-  },
-  {
-      "name": "Performance Bonus (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY226",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY226.png"
-      }
-  },
-  {
-      "name": "Performance Bonus (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY227",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY227.png"
-      }
-  },
-  {
-      "name": "Rally the Rearguard (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY228",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY228.png"
-      }
-  },
-  {
-      "name": "Rally the Rearguard (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY229",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY229.png"
-      }
-  },
-  {
-      "name": "Rally the Rearguard (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY230",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY230.png"
-      }
-  },
-  {
-      "name": "Trade In (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY231",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY231.png"
-      }
-  },
-  {
-      "name": "Trade In (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY232",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY232.png"
-      }
-  },
-  {
-      "name": "Trade In (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY233",
-      "type": "Generic, Action, Attack",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY233.png"
-      }
-  },
-  {
-      "name": "Lunging Press (blue)",
-      "rarity": "common",
-      "mana_cost": "3",
-      "collector_number": "HVY234",
-      "type": "Generic, Attack Reaction",
-      "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY234.png"
-      }
-  },
-  {
-      "name": "Money Where Ya Mouth Is (red)",
-      "rarity": "common",
-      "mana_cost": "1",
-      "collector_number": "HVY235",
+      "collector_number": "MST193",
       "type": "Generic, Action",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY235.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST193.png"
       }
   },
   {
-      "name": "Money Where Ya Mouth Is (yellow)",
-      "rarity": "common",
-      "mana_cost": "2",
-      "collector_number": "HVY236",
-      "type": "Generic, Action",
+      "name": "Blanch (red)",
+      "rarity": "rare",
+      "mana_cost": "1",
+      "collector_number": "MST194",
+      "type": "Generic, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY236.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST194.png"
       }
   },
   {
-      "name": "Money Where Ya Mouth Is (blue)",
-      "rarity": "common",
+      "name": "Blanch (yellow)",
+      "rarity": "rare",
+      "mana_cost": "2",
+      "collector_number": "MST195",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST195.png"
+      }
+  },
+  {
+      "name": "Blanch (blue)",
+      "rarity": "rare",
       "mana_cost": "3",
-      "collector_number": "HVY237",
-      "type": "Generic, Action",
+      "collector_number": "MST196",
+      "type": "Generic, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY237.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST196.png"
       }
   },
   {
-      "name": "Starting Stake (yellow)",
-      "rarity": "common",
+      "name": "Emissary of Moon (red)",
+      "rarity": "rare",
+      "mana_cost": "1",
+      "collector_number": "MST197",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST197.png"
+      }
+  },
+  {
+      "name": "Emissary of Tides (red)",
+      "rarity": "rare",
+      "mana_cost": "1",
+      "collector_number": "MST198",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST198.png"
+      }
+  },
+  {
+      "name": "Emissary of Wind (red)",
+      "rarity": "rare",
+      "mana_cost": "1",
+      "collector_number": "MST199",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST199.png"
+      }
+  },
+  {
+      "name": "Gravekeeping (red)",
+      "rarity": "rare",
+      "mana_cost": "1",
+      "collector_number": "MST200",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST200.png"
+      }
+  },
+  {
+      "name": "Gravekeeping (yellow)",
+      "rarity": "rare",
       "mana_cost": "2",
-      "collector_number": "HVY238",
-      "type": "Generic, Action",
+      "collector_number": "MST201",
+      "type": "Generic, Action, Attack",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY238.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST201.png"
       }
   },
   {
-      "name": "Test of Strength (red)",
+      "name": "Gravekeeping (blue)",
+      "rarity": "rare",
+      "mana_cost": "3",
+      "collector_number": "MST202",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST202.png"
+      }
+  },
+  {
+      "name": "Battlefront Bastion (red)",
       "rarity": "common",
       "mana_cost": "1",
-      "collector_number": "HVY239",
-      "type": "Generic, Block",
+      "collector_number": "MST203",
+      "type": "special",
       "image_uris": {
-         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2023-HVY/EN/HVY239.png"
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST203.png"
+      }
+  },
+  {
+      "name": "Battlefront Bastion (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST204",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST204.png"
+      }
+  },
+  {
+      "name": "Battlefront Bastion (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST205",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST205.png"
+      }
+  },
+  {
+      "name": "Fact-Finding Mission (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST206",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST206.png"
+      }
+  },
+  {
+      "name": "Fact-Finding Mission (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST207",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST207.png"
+      }
+  },
+  {
+      "name": "Fact-Finding Mission (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST208",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST208.png"
+      }
+  },
+  {
+      "name": "Nimble Strike (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST209",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST209.png"
+      }
+  },
+  {
+      "name": "Nimble Strike (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST210",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST210.png"
+      }
+  },
+  {
+      "name": "Nimble Strike (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST211",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST211.png"
+      }
+  },
+  {
+      "name": "Water the Seeds (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST212",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST212.png"
+      }
+  },
+  {
+      "name": "Water the Seeds (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST213",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST213.png"
+      }
+  },
+  {
+      "name": "Water the Seeds (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST214",
+      "type": "Generic, Action, Attack",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST214.png"
+      }
+  },
+  {
+      "name": "Wounding Blow (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST215",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST215.png"
+      }
+  },
+  {
+      "name": "Wounding Blow (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST216",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST216.png"
+      }
+  },
+  {
+      "name": "Wounding Blow (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST217",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST217.png"
+      }
+  },
+  {
+      "name": "Evasive Leap (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST218",
+      "type": "Generic, Defense Reaction",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST218.png"
+      }
+  },
+  {
+      "name": "Evasive Leap (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST219",
+      "type": "Generic, Defense Reaction",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST219.png"
+      }
+  },
+  {
+      "name": "Evasive Leap (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST220",
+      "type": "Generic, Defense Reaction",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST220.png"
+      }
+  },
+  {
+      "name": "Nimblism (red)",
+      "rarity": "common",
+      "mana_cost": "1",
+      "collector_number": "MST221",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST221.png"
+      }
+  },
+  {
+      "name": "Nimblism (yellow)",
+      "rarity": "common",
+      "mana_cost": "2",
+      "collector_number": "MST222",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST222.png"
+      }
+  },
+  {
+      "name": "Nimblism (blue)",
+      "rarity": "common",
+      "mana_cost": "3",
+      "collector_number": "MST223",
+      "type": "special",
+      "image_uris": {
+         "en": "https://storage.googleapis.com/fabmaster/cardfaces/2024-MST/EN/MST223.png"
       }
   }
 ]

@@ -27,7 +27,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: url('flesh-and-blood-heavy-hitters-19-1024x558.webp') center/cover no-repeat fixed;
+            background: url('part_the_mistveil_key_art.original.jpg') center/cover no-repeat fixed;
             opacity: 0.3;
             z-index: -1; 
         }
@@ -89,13 +89,16 @@
 
         #rightPanel {
             width: 300px;
+            max-width: 300px;
             height: 100%;
             position: fixed;
             top: 0;
             right: 0;
-            background-color: rgba(0, 0, 0, 0.7);
+            background-color: rgba(0, 0, 0, 1);
             padding: 10px;
-            display: block;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
 
         .controls { 
@@ -154,7 +157,7 @@
 <body>
 <div class="controls">
   <h2 style="display: inline; padding-right: 2rem;">
-    Heavy Hitters - Sealed Generator v1.2
+    Part the Mistveil - Sealed Generator v1.2
   </h2>
   <button class="primary" id="generateButton">Generate Sealed Boosters</button>
   <button id="exportButton">Export to Fabrary</button>
@@ -167,7 +170,7 @@
 
 <script>
   let fabraryUrl = generateDeckURL(['HVY002', 'HVY004', 'HVY005', 'HVY005', 'HVY046', 'HVY048', 'HVY049', 'HVY049', 'HVY094', 'HVY094', 'HVY244']);
-
+  let boosters = []
   document.getElementById('exportButton').addEventListener('click', function () {
     window.open(fabraryUrl, '_blank');
   });
@@ -207,10 +210,9 @@ function findMatchingCard(cardName, cards) {
 
 function generateRandomLayout(layouts, types, cards) {
     let randomLayout = layouts[Math.floor(Math.random() * layouts.length)];
-    const boosters = [];
     const cardsIds = ['HVY002', 'HVY004', 'HVY005', 'HVY005', 'HVY046', 'HVY048', 'HVY049', 'HVY049', 'HVY094', 'HVY094', 'HVY244'];
 
-    for (let boosterNumber = 0; boosterNumber < 6; boosterNumber++) {
+    for (let boosterNumber = 0; boosterNumber < 8; boosterNumber++) {
         randomLayout = layouts[Math.floor(Math.random() * layouts.length)];
         boosters[boosterNumber] = {};
         for (const type in randomLayout) {
@@ -226,6 +228,7 @@ function generateRandomLayout(layouts, types, cards) {
                         continue;
                     }
                     cardsIds.push(matchingCard.collector_number)
+                    matchingCard.hide = false;
                     boosters[boosterNumber][type].push(matchingCard);
                 } else {
                     console.error(`Card not found for name: ${randomCardName}`);
@@ -272,9 +275,17 @@ function displayCardImages(boosters) {
               img.alt = card.name;
               img.style.maxHeight = '250px';
               img.classList.add('card');
+              if (card.hide) {
+                  img.style.filter = "grayscale(100%)";
+                  img.style.maxHeight = '100px';
+              }
               
               img.addEventListener('mouseenter', () => showCardInfo(card));
               img.addEventListener('mouseleave', hideCardInfo);
+              img.addEventListener('click', () => {
+                  card.hide = true;
+                  return displayCardImages(boosters)
+              });
               
               cardContainer.appendChild(img);
               const typeName = document.createElement('p');
@@ -286,7 +297,7 @@ function displayCardImages(boosters) {
               boosterDiv.appendChild(cardContainer);
           }
       }
-
+      displayDeckInfo() 
       outputDiv.appendChild(boosterDiv);
     }
 }
@@ -294,20 +305,55 @@ function displayCardImages(boosters) {
 function showCardInfo(card) {
     const rightPanel = document.getElementById('rightPanel');
     rightPanel.innerHTML = `
-    <img src=${card.image_uris.en} alt=${card.name} style="max-height: 450px; margin-bottom: 10px;" />
+    <img src=${card.image_uris.en} alt=${card.name} style="max-height: 300px; margin-bottom: 10px;" />
     <h2>${card.name}</h2>
                             <p>Rarity: ${card.rarity.charAt(0).toUpperCase() + card.rarity.slice(1)}</p>
                             <p>Color: <b style="color: ${card.name.match(/\(([^)]+)\)/)?.[1]};">${card.name.match(/\(([^)]+)\)/)?.[1] || 'Equipment'}</b></p>
                             <p>Resource Cost: ${card.mana_cost}</p>
                             <p>Card ID: ${card.collector_number}</p>
                             <p>Type: ${card.type}</p>`;
-    rightPanel.style.display = 'block';
 }
 
 function hideCardInfo() {
-    const rightPanel = document.getElementById('rightPanel');
-    rightPanel.style.display = 'none';
+  displayDeckInfo();
 }
+
+function displayDeckInfo() {
+    const rightPanel = document.getElementById('rightPanel');
+    const cards = countCards();
+    rightPanel.innerHTML = `
+    <h2>Deck Info</h2>
+    <p>Card Amount: ${cards.all} + 11 Tokens</p>
+    ${Object.keys(cards).reduce((acc, cur) => {
+      if (cur === 'all') return acc
+      return acc + `<p>${cur}: ${cards[cur]}</p>`
+    }, '')}
+    `;
+}
+
+function countCards() {
+  let count = 0;
+  let countObject = {
+    all: 0,
+  };
+    for (const booster of boosters) {
+      for (const type in booster) {
+        booster[type].forEach(card => {
+          if (!card.hide) {
+            countObject.all++;
+            if (countObject[type]) {
+              countObject[type]++;
+            } else {
+              countObject[type] = 1;
+            }
+          }
+        })
+      }
+    }
+  return countObject;
+}
+
+displayDeckInfo() 
 </script>
 
 </body>
