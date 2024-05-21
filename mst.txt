@@ -2058,6 +2058,16 @@
        1 Equipment
        2 Rare
        1 RFCommon
+   - tmzhkuucrgvq (213005)
+       2 Assassin
+       2 Ninja
+       2 Illusionist
+       1 TenetMystic
+       2 Generic
+       1 Transcend
+       1 Equipment
+       2 Rare
+       1 RFCommon
    - bomqwwrzpulu (91157)
        2 Assassin
        2 Ninja

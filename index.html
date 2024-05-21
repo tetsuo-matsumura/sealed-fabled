@@ -208,15 +208,45 @@ function findMatchingCard(cardName, cards) {
     return cards.find(card => card.name === cardName);
 }
 
+function getRandomBooster(layouts) {
+  const totalProbability = 1000000;
+  const randomValue = Math.random() * totalProbability;
+  
+  let cumulativeProbability = 0;
+  
+  for (const layout of layouts) {
+    cumulativeProbability += parseInt(layout.probability, 10);
+    if (randomValue < cumulativeProbability) {
+      return layout;
+    }
+  }
+}
+
+
+function generateBox(layouts, numberOfCards) {
+  const pulledBoosters = [];
+  
+  for (let i = 0; i < numberOfCards; i++) {
+    const booster = getRandomBooster(layouts);
+    pulledBoosters.push(booster);
+  }
+  
+  return pulledBoosters;
+}
+
 function generateRandomLayout(layouts, types, cards) {
-    let randomLayout = layouts[Math.floor(Math.random() * layouts.length)];
+    const boxBoosters = generateBox(layouts, 8)
+    const shuffledBoosters = boxBoosters.sort(() => Math.random() - 0.5);
+    const playerBoosters = shuffledBoosters.slice(0, 8);
+    let currentLayout = playerBoosters[0]
     const cardsIds = ['MST002', 'MST003', 'MST003', 'MST130', 'MST159'];
 
     for (let boosterNumber = 0; boosterNumber < 8; boosterNumber++) {
-        randomLayout = layouts[Math.floor(Math.random() * layouts.length)];
+        currentLayout = playerBoosters[boosterNumber];
         boosters[boosterNumber] = {};
-        for (const type in randomLayout) {
-            const quantity = randomLayout[type];
+        for (const type in currentLayout) {
+            if (type === 'probability') continue;
+            const quantity = currentLayout[type];
             boosters[boosterNumber][type] = [];
 
             for (let i = 0; i < quantity; i++) {

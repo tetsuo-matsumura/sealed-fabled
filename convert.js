@@ -3,7 +3,6 @@ const path = require('path');
 
 const inputFilePath = path.join(__dirname, 'mst.txt');
 const typesOutputFilePath = path.join(__dirname, 'types.json');
-const cardsOutputFilePath = path.join(__dirname, 'cards.json');
 const layoutsOutputFilePath = path.join(__dirname, 'layouts.json');
 
 // Check if the file exists
@@ -35,6 +34,7 @@ fs.readFile(inputFilePath, 'utf-8', (err, data) => {
 
     const types = {};
     const layouts = [];
+    let layoutWeight = 0;
 
     let currentSection = null;
     let currentLayout = null;
@@ -62,12 +62,15 @@ fs.readFile(inputFilePath, 'utf-8', (err, data) => {
             return;
         } else if (currentSection === 'Layouts') {
             const layoutMatch = line.trim().match(/^- (.+) \((\d+)\)\s*$/);
-
             if (layoutMatch) {
+                layoutWeight += parseInt(layoutMatch[2], 10)
                 if (currentLayout) {
+                    currentLayout.probability = layoutMatch[2]
                     layouts.push(currentLayout);
+
                 }
                 currentLayout = {};
+                currentLayout.probability = layoutMatch[2]
             } else {
                 const [count, type] = line.trim().split(' ');
                 if (currentLayout) {
@@ -78,14 +81,18 @@ fs.readFile(inputFilePath, 'utf-8', (err, data) => {
             if (!types[currentSection]) {
                 types[currentSection] = [];
             }
-            
-            types[currentSection].push(line.trim().replace(/^\d+ /, ''));
+            const [count,] = line.trim().split(' ')
+            for (let i = 0; i < count; i++) {
+              types[currentSection].push(line.trim().replace(/^\d+ /, ''));
+            }
         } 
     });
 
     if (currentLayout) {
         layouts.push(currentLayout);
     }
+
+    console.log(layoutWeight)
 
     fs.writeFile(typesOutputFilePath, JSON.stringify(types, null, 2), err => {
         if (err) throw err;
