@@ -35,7 +35,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: url('part_the_mistveil_key_art.original.jpg') center/cover no-repeat fixed;
+            background: url('art_hnt_keyart.original.jpg') center/cover no-repeat fixed;
             opacity: 0.3;
             z-index: -1; 
         }
@@ -175,7 +175,7 @@
 <body>
 <div class="controls">
   <h2 style="display: inline; padding-right: 2rem;">
-    Part the Mistveil - Sealed Generator v1.2
+    The Hunted - Sealed Generator v1.5
   </h2>
   <button class="primary" id="generateButton">Generate Sealed Boosters</button>
   <button id="exportButton">Export to Fabrary</button>
@@ -227,7 +227,7 @@ function findMatchingCard(cardName, cards) {
 }
 
 function getRandomBooster(layouts) {
-  const totalProbability = 1000000;
+  const totalProbability = 544290;
   const randomValue = Math.random() * totalProbability;
   
   let cumulativeProbability = 0;
@@ -257,7 +257,7 @@ function generateRandomLayout(layouts, types, cards) {
     const shuffledBoosters = boxBoosters.sort(() => Math.random() - 0.5);
     const playerBoosters = shuffledBoosters.slice(0, 8);
     let currentLayout = playerBoosters[0]
-    const cardsIds = ['MST002', 'MST003', 'MST003', 'MST130', 'MST159'];
+    const cardsIds = ['HNT010', 'HNT010', 'HNT053', 'HNT053', 'HNT056', 'HNT056', 'HNT100', 'HNT100'];
 
     for (let boosterNumber = 0; boosterNumber < 8; boosterNumber++) {
         currentLayout = playerBoosters[boosterNumber];
@@ -371,7 +371,7 @@ function displayDeckInfo() {
     const cards = countCards();
     rightPanel.innerHTML = `
     <h2>Deck Info</h2>
-    <p>Card Amount: ${cards.all} + 5 Tokens</p>
+    <p>Card Amount: ${cards.all} + 8 Tokens</p>
     ${Object.keys(cards).reduce((acc, cur) => {
       if (cur === 'all') return acc
       return acc + `<p>${cur}: ${cards[cur]}</p>`

@@ -1,3 +1,10 @@
+[Settings]
+{
+    "showSlots": true,
+    "withReplacement": false,
+    "cardBack": "https://d2h5owxb2ypf43.cloudfront.net/cards/cardback.webp",
+}
+[CustomCards]
 [
     {
         "name": "Kiss of Death (red)",
@@ -2198,5 +2205,752 @@
         "image_uris": {
            "en": "https://storage.googleapis.com/fabmaster/cardfaces/2025-HNT/EN/HNT243.png"
         }
-    }
+    },
 ]
+[Layouts]
+   - phnludnzinjz (455710)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - htvttgdynefe (126842)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - moyvvmqrclsd (106993)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - fqljajodgtwx (38221)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - zsuixeusdkbf (38003)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - elnuniqgytxe (37865)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - pqrxyuptulhn (37592)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - evnzspflltdt (29551)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - oowmdndsaxkm (25140)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - bakipikgqqls (10709)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - vcbgnvfludha (10514)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - hwrgrxsludzt (10474)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - mqhirrqzwfms (10417)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - sjnwblxpxfxf (8925)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - cwqifxnevivi (8904)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - tqdejfugpqgi (8897)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - hzdpcjcrilgc (8893)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - vdnuzkkeglbd (6063)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - jizuethajcvs (2527)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - qthgfwfpbqre (2491)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - tpymmlrxapqj (2469)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - tvgxehuikxjh (2432)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - knsxtznigonj (2163)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - xkvtnmyelgbt (2135)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - fpeiwvmelsdn (2058)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - acocryumrnvh (2048)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - nilwqpgxvhvg (507)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 AssassinWarrior
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - uyweieddbzhw (498)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - tzvfnkcpvivk (497)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 DraconicOnly
+       1 AssassinNinja
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - vmmiywzegbky (462)
+       2 Assassin
+       2 Ninja
+       2 Warrior
+       1 AssassinNinja
+       1 AssassinWarrior
+       1 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+[Assassin]
+4 Back Stab (red)
+2 Defang the Dragon (red)
+2 Extinguish the Flames (red)
+4 Mark of the Black Widow (red)
+2 Mark of the Black Widow (yellow)
+4 Mark of the Black Widow (blue)
+4 Mark of the Funnel Web (red)
+2 Mark of the Funnel Web (yellow)
+4 Mark of the Funnel Web (blue)
+4 Mark the Prey (red)
+2 Mark the Prey (yellow)
+4 Mark the Prey (blue)
+4 Plunge the Prospect (red)
+4 Plunge the Prospect (yellow)
+2 Plunge the Prospect (blue)
+4 Reaper's Call (red)
+4 Reaper's Call (yellow)
+4 Reaper's Call (blue)
+4 Scuttle the Canal (red)
+2 Scuttle the Canal (yellow)
+4 Scuttle the Canal (blue)
+4 Razor's Edge (red)
+4 Two Sides to the Blade (red)
+4 Hunted or Hunter (red)
+[Ninja]
+2 Blood Drop (red)
+4 Blood Line (red)
+4 Burning Blade Dance (red)
+2 Cinderskin Devotion (red)
+4 Dust Runner Outlaw (red)
+4 Hot on Their Heels (red)
+4 Lava Vein Loyalty (red)
+4 Mark with Magma (red)
+4 Ronin Renegade (red)
+4 Fire Tenet: Strike First (red)
+2 Fire Tenet: Strike First (yellow)
+2 Fire Tenet: Strike First (blue)
+4 Grow Claws (red)
+2 Grow Claws (yellow)
+4 Grow Claws (blue)
+4 Grow Wings (red)
+2 Grow Wings (yellow)
+4 Grow Wings (blue)
+4 Tag the Target (red)
+4 Tag the Target (yellow)
+2 Tag the Target (blue)
+4 Trap and Release (red)
+2 Trap and Release (yellow)
+4 Trap and Release (blue)
+[Warrior]
+4 Blistering Blade (red)
+2 Brothers of Flame (red)
+2 Dynastic Dedication (red)
+4 Imperial Intent (red)
+4 Scalding Iron (red)
+4 Searing Gaze (red)
+4 Sisters of Fire (red)
+4 Sizzling Steel (red)
+2 Stabbing Pain (red)
+4 Cut Deep (red)
+2 Cut Deep (yellow)
+4 Cut Deep (blue)
+2 Hunt a Killer (red)
+4 Hunt a Killer (yellow)
+4 Hunt a Killer (blue)
+2 Knife Through Butter (red)
+4 Knife Through Butter (yellow)
+4 Knife Through Butter (blue)
+4 Point of Engagement (red)
+4 Point of Engagement (yellow)
+2 Point of Engagement (blue)
+4 Sworn Vengeance (red)
+2 Sworn Vengeance (yellow)
+4 Sworn Vengeance (blue)
+[DraconicOnly]
+4 Blaze Headlong (red)
+4 For the Dracai (red)
+4 For the Emperor (red)
+4 For the Realm (red)
+4 Hunt the Hunter (red)
+4 Smoke Out (red)
+4 Blessing of Vynserakai (red)
+6 Pledge Fealty (red)
+6 Proclaim Vengeance (red)
+4 Tooth of the Dragon (red)
+[AssassinNinja]
+4 Pick Up the Point (red)
+4 Pick Up the Point (yellow)
+4 Pick Up the Point (blue)
+4 Poisoned Blade (red)
+4 Poisoned Blade (yellow)
+4 Poisoned Blade (blue)
+4 Throw Yourself at Them (red)
+4 Throw Yourself at Them (yellow)
+4 Throw Yourself at Them (blue)
+4 Lair of the Spider (red)
+[AssassinWarrior]
+4 Incision (red)
+4 Incision (yellow)
+4 Incision (blue)
+8 Scar Tissue (red)
+4 Scar Tissue (yellow)
+4 Scar Tissue (blue)
+4 Take a Stab (red)
+4 Take a Stab (yellow)
+4 Take a Stab (blue)
+4 Den of the Spider (red)
+[Generic]
+4 Tip-Off (red)
+4 Tip-Off (yellow)
+4 Tip-Off (blue)
+4 Outed (red)
+4 Lay Low (yellow)
+4 Exposed (blue)
+4 Put in Context (blue)
+4 Nip at the Heels (blue)
+4 Trot Along (blue)
+4 Public Bounty (red)
+4 Public Bounty (yellow)
+4 Public Bounty (blue)
+[Equipment]
+4 Vow of Vengeance
+4 Heart of Vengeance
+4 Hand of Vengeance
+4 Path of Vengeance
+4 Coat of Allegiance
+4 Leap Frog Vocal Sac
+4 Leap Frog Slime Skin
+4 Leap Frog Gloves
+4 Leap Frog Leggings
+4 Danger Digits
+4 Red Alert Visor
+6 Red Alert Vest
+4 Red Alert Gloves
+4 Red Alert Boots
+4 Starting Point
+4 Bunker Beard
+[Rare]
+2 Bite (red)
+2 Bite (yellow)
+2 Bite (blue)
+2 Whittle from Bone (red)
+2 Whittle from Bone (yellow)
+2 Whittle from Bone (blue)
+2 Stains of the Redback (red)
+2 Stains of the Redback (yellow)
+2 Stains of the Redback (blue)
+2 Orb-Weaver Spinneret (red)
+2 Orb-Weaver Spinneret (yellow)
+2 Orb-Weaver Spinneret (blue)
+2 Demonstrate Devotion (red)
+2 Display Loyalty (red)
+2 Wrath of Retribution (red)
+2 Art of the Dragon: Claw (red)
+2 Art of the Dragon: Fire (red)
+2 Art of the Dragon: Scale (red)
+2 Dragon Power (red)
+2 Dragon Power (yellow)
+2 Dragon Power (blue)
+2 Silver Talons (red)
+2 Silver Talons (yellow)
+2 Silver Talons (blue)
+2 Affirm Loyalty (red)
+2 Endear Devotion (red)
+2 Fire and Brimstone (red)
+2 Diced (red)
+2 Diced (yellow)
+2 Diced (blue)
+2 Twist and Turn (red)
+2 Twist and Turn (yellow)
+2 Twist and Turn (blue)
+2 Agility Stance (yellow)
+2 Flurry Stance (red)
+2 Power Stance (blue)
+2 Compounding Anger (red)
+2 Hunt to the Ends of Rathe (red)
+2 March of Loyalty (red)
+2 Bubble to the Surface (red)
+2 Drop of Dragon Blood (red)
+2 Rake Over the Coals (red)
+2 Cut Through (red)
+2 Cut Through (yellow)
+2 Cut Through (blue)
+2 Up Sticks and Run (red)
+2 Up Sticks and Run (yellow)
+2 Up Sticks and Run (blue)
+2 To the Point (red)
+2 To the Point (yellow)
+2 To the Point (blue)
+2 Cut from the Same Cloth (red)
+2 Cut from the Same Cloth (yellow)
+2 Cut from the Same Cloth (blue)
+2 Blade Beckoner Helm
+2 Blade Beckoner Plating
+2 Blade Beckoner Gauntlets
+2 Blade Beckoner Boots
+2 Pursue to the Edge of Oblivion (red)
+2 Pursue to the Pits of Despair (red)
+2 Sound the Alarm (red)
+2 Razor Reflex (red)
+2 Imperial Seal of Command (red)
+2 Relentless Pursuit (blue)
+2 Calming Breeze (red)
+2 Sigil of Solace (red)
+[Majestic]
+1 Kiss of Death (red)
+1 Under the Trap-Door (blue)
+1 Take Up the Mantle (yellow)
+1 Tarantula Toxin (red)
+1 Anaphylactic Shock (blue)
+1 Blood Runs Deep (red)
+1 Ignite (red)
+1 Art of the Dragon: Blood (red)
+1 Devotion Never Dies (red)
+1 Prowess of Agility (blue)
+1 Hunt's End (red)
+1 Long Whisker Loyalty (red)
+1 Jagged Edge (red)
+1 Provoke (blue)
+1 Sharpened Senses (yellow)
+1 Oath of Loyalty (red)
+1 Loyalty Beyond the Grave (red)
+1 Pain in the Backside (red)
+1 Throw Dagger (blue)
+1 Perforate (yellow)
+1 Savor Bloodshed (red)
+1 Rotten Remains (blue)
+1 Shelter from the Storm (red)
+1 Dual Threat (yellow)
+[RFCommon]
+1 Defang the Dragon (red)
+1 Extinguish the Flames (red)
+1 Mark of the Black Widow (red)
+1 Mark of the Black Widow (yellow)
+1 Mark of the Black Widow (blue)
+1 Mark of the Funnel Web (red)
+1 Mark of the Funnel Web (yellow)
+1 Mark of the Funnel Web (blue)
+1 Mark the Prey (red)
+1 Mark the Prey (yellow)
+1 Mark the Prey (blue)
+1 Plunge the Prospect (red)
+1 Plunge the Prospect (yellow)
+1 Plunge the Prospect (blue)
+1 Reaper's Call (red)
+1 Reaper's Call (yellow)
+1 Reaper's Call (blue)
+1 Scuttle the Canal (red)
+1 Scuttle the Canal (yellow)
+1 Scuttle the Canal (blue)
+1 Two Sides to the Blade (red)
+1 Hunted or Hunter (red)
+1 Blood Drop (red)
+1 Blood Line (red)
+1 Burning Blade Dance (red)
+1 Hot on Their Heels (red)
+1 Mark with Magma (red)
+1 Fire Tenet: Strike First (red)
+1 Fire Tenet: Strike First (yellow)
+1 Fire Tenet: Strike First (blue)
+1 Grow Claws (red)
+1 Grow Claws (yellow)
+1 Grow Claws (blue)
+1 Grow Wings (red)
+1 Grow Wings (yellow)
+1 Grow Wings (blue)
+1 Tag the Target (red)
+1 Tag the Target (yellow)
+1 Tag the Target (blue)
+1 Trap and Release (red)
+1 Trap and Release (yellow)
+1 Trap and Release (blue)
+1 Blistering Blade (red)
+1 Brothers of Flame (red)
+1 Dynastic Dedication (red)
+1 Imperial Intent (red)
+1 Scalding Iron (red)
+1 Searing Gaze (red)
+1 Sisters of Fire (red)
+1 Sizzling Steel (red)
+1 Stabbing Pain (red)
+1 Cut Deep (red)
+1 Cut Deep (yellow)
+1 Cut Deep (blue)
+1 Hunt a Killer (red)
+1 Hunt a Killer (yellow)
+1 Hunt a Killer (blue)
+1 Knife Through Butter (red)
+1 Knife Through Butter (yellow)
+1 Knife Through Butter (blue)
+1 Point of Engagement (red)
+1 Point of Engagement (yellow)
+1 Point of Engagement (blue)
+1 Sworn Vengeance (red)
+1 Sworn Vengeance (yellow)
+1 Sworn Vengeance (blue)
+1 Blaze Headlong (red)
+1 For the Dracai (red)
+1 For the Emperor (red)
+1 For the Realm (red)
+1 Hunt the Hunter (red)
+1 Smoke Out (red)
+1 Blessing of Vynserakai (red)
+1 Pledge Fealty (red)
+1 Proclaim Vengeance (red)
+1 Tooth of the Dragon (red)
+1 Pick Up the Point (red)
+1 Pick Up the Point (yellow)
+1 Pick Up the Point (blue)
+1 Poisoned Blade (red)
+1 Poisoned Blade (yellow)
+1 Poisoned Blade (blue)
+1 Throw Yourself at Them (red)
+1 Throw Yourself at Them (yellow)
+1 Throw Yourself at Them (blue)
+1 Lair of the Spider (red)
+1 Incision (red)
+1 Incision (yellow)
+1 Incision (blue)
+1 Scar Tissue (red)
+1 Scar Tissue (yellow)
+1 Scar Tissue (blue)
+1 Take a Stab (red)
+1 Take a Stab (yellow)
+1 Take a Stab (blue)
+1 Den of the Spider (red)
+1 Tip-Off (red)
+1 Tip-Off (yellow)
+1 Tip-Off (blue)
+1 Outed (red)
+1 Lay Low (yellow)
+1 Exposed (blue)
+1 Put in Context (blue)
+1 Nip at the Heels (blue)
+1 Trot Along (blue)
+1 Public Bounty (red)
+1 Public Bounty (yellow)
+1 Public Bounty (blue)
+[RFRare]
+1 Bite (red)
+1 Bite (yellow)
+1 Bite (blue)
+1 Whittle from Bone (red)
+1 Whittle from Bone (yellow)
+1 Whittle from Bone (blue)
+1 Stains of the Redback (red)
+1 Stains of the Redback (yellow)
+1 Stains of the Redback (blue)
+1 Orb-Weaver Spinneret (red)
+1 Orb-Weaver Spinneret (yellow)
+1 Orb-Weaver Spinneret (blue)
+1 Demonstrate Devotion (red)
+1 Display Loyalty (red)
+1 Wrath of Retribution (red)
+1 Art of the Dragon: Claw (red)
+1 Art of the Dragon: Fire (red)
+1 Art of the Dragon: Scale (red)
+1 Dragon Power (red)
+1 Dragon Power (yellow)
+1 Dragon Power (blue)
+1 Silver Talons (red)
+1 Silver Talons (yellow)
+1 Silver Talons (blue)
+1 Affirm Loyalty (red)
+1 Endear Devotion (red)
+1 Fire and Brimstone (red)
+1 Diced (red)
+1 Diced (yellow)
+1 Diced (blue)
+1 Twist and Turn (red)
+1 Twist and Turn (yellow)
+1 Twist and Turn (blue)
+1 Agility Stance (yellow)
+1 Flurry Stance (red)
+1 Power Stance (blue)
+1 Compounding Anger (red)
+1 Hunt to the Ends of Rathe (red)
+1 March of Loyalty (red)
+1 Bubble to the Surface (red)
+1 Drop of Dragon Blood (red)
+1 Rake Over the Coals (red)
+1 Cut Through (red)
+1 Cut Through (yellow)
+1 Cut Through (blue)
+1 Up Sticks and Run (red)
+1 Up Sticks and Run (yellow)
+1 Up Sticks and Run (blue)
+1 To the Point (red)
+1 To the Point (yellow)
+1 To the Point (blue)
+1 Cut from the Same Cloth (red)
+1 Cut from the Same Cloth (yellow)
+1 Cut from the Same Cloth (blue)
+1 Pursue to the Edge of Oblivion (red)
+1 Pursue to the Pits of Despair (red)
+1 Sound the Alarm (red)
+1 Imperial Seal of Command (red)
+1 Relentless Pursuit (blue)
+1 Calming Breeze (red)
+[RFMajestic]
+1 Kiss of Death (red)
+1 Under the Trap-Door (blue)
+1 Take Up the Mantle (yellow)
+1 Tarantula Toxin (red)
+1 Anaphylactic Shock (blue)
+1 Blood Runs Deep (red)
+1 Ignite (red)
+1 Art of the Dragon: Blood (red)
+1 Devotion Never Dies (red)
+1 Prowess of Agility (blue)
+1 Hunt's End (red)
+1 Long Whisker Loyalty (red)
+1 Jagged Edge (red)
+1 Provoke (blue)
+1 Sharpened Senses (yellow)
+1 Oath of Loyalty (red)
+1 Loyalty Beyond the Grave (red)
+1 Pain in the Backside (red)
+1 Throw Dagger (blue)
+1 Perforate (yellow)
+1 Savor Bloodshed (red)
+1 Rotten Remains (blue)
+1 Shelter from the Storm (red)
+1 Dual Threat (yellow)
