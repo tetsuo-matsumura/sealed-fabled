@@ -1,3 +1,10 @@
+[Settings]
+{
+    "showSlots": true,
+    "withReplacement": false,
+    "cardBack": "https://d2h5owxb2ypf43.cloudfront.net/cards/cardback.webp",
+}
+[CustomCards]
 [
     {
         "name": "Golden Skywarden (yellow)",
@@ -2238,5 +2245,941 @@
         "image_uris": {
            "en": "https://storage.googleapis.com/fabmaster/cardfaces/2025-SEA/EN/SEA243.png"
         }
-    }
+    },
 ]
+[Layouts]
+   - jrypncashlbp (76273)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - ezftwbftwnin (76175)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - gxhalnwtwesj (76169)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - mophzacxakkt (76161)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - haasejwwwppg (76139)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - mhktbrqobtax (75775)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFCommon
+   - dkognfwctvpy (50665)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - juvydvfannbf (50543)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - itacstgayvti (50369)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       2 Rare
+       1 RFCommon
+   - nkhmpsoenqay (21298)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - xbowwvhhrtow (21210)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - nsxncbtcjvyg (21160)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - lniyrqxghshm (21037)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - hfgkplhqeusq (21034)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - pbxqnwtvoueg (20978)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFRare
+   - fjcbxpyndevf (17886)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - osgvgecpdknw (17792)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - nvhtjnwbnivk (17764)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - dnexkyxkrfys (17728)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - cbvcbtvaghwa (17668)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - oomewhnwazrk (17531)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - tunxpkfpecry (14152)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - blfodxsrgsmz (13961)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - bhzbyanphaxv (13862)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       2 Rare
+       1 RFRare
+   - aeupkpupfqnw (11909)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - gdytjmedrulo (11859)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - qfuzmwosdphp (11843)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFCommon
+   - nauyilcvlvvk (5012)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - zpnrjpqnstlg (4982)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - ouetqdrlsbib (4972)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - lqrwshrvgtvx (4958)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - kivjkyilnqob (4888)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - mlkatbhgsuxh (4850)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - mqgsnvqqhiwl (4229)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - aiobnnnajrzd (4229)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - pcmzkicemdtw (4212)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - tyvlwxeucsee (4181)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - ctmaebvkyzjf (4159)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - npjbvmpemebl (4093)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       2 Rare
+       1 RFMajestic
+   - ugltgedfmpiv (3263)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - zatykvynfptr (3206)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - qmtrnibjoayr (3178)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFRare
+   - gfbznwtfkqku (2882)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - yxhmlroeures (2865)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - vkxkojisnmqi (2850)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       2 Rare
+       1 RFMajestic
+   - dgibeixyofzr (1013)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - oiyzdhenvqrk (1003)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - takazkbkbtef (1002)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - quyptgvksxxv (990)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       3 Pirate
+       2 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - tewulmymwyxm (973)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - jfxuntiuclft (968)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       3 Generic
+       1 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - pxxansqxkhai (748)
+       1 Gravy
+       2 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - oeesujgwpgdt (698)
+       2 Gravy
+       2 Puffin
+       1 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+   - yzamzaivrjmc (655)
+       2 Gravy
+       1 Puffin
+       2 Marlynn
+       2 Pirate
+       2 Generic
+       2 Equipment
+       1 Rare
+       1 Majestic
+       1 RFMajestic
+[Gravy]
+4 Angry Bones (red)
+4 Angry Bones (yellow)
+4 Angry Bones (blue)
+4 Burly Bones (red)
+4 Burly Bones (yellow)
+4 Burly Bones (blue)
+4 Jittery Bones (red)
+4 Jittery Bones (yellow)
+4 Jittery Bones (blue)
+4 Restless Bones (red)
+4 Restless Bones (yellow)
+4 Restless Bones (blue)
+4 Barnacle (yellow)
+4 Chowder, Hearty Cook (yellow)
+4 Cutty Shark, Quick Clip (yellow)
+4 Riggermortis (yellow)
+4 Shelly, Hardened Traveler (yellow)
+4 Swabbie (yellow)
+[Puffin]
+4 Cloud Skiff (red)
+4 Cloud Skiff (yellow)
+4 Cloud Skiff (blue)
+4 Sky Skimmer (red)
+4 Sky Skimmer (yellow)
+4 Sky Skimmer (blue)
+4 Teeth of the Cog (red)
+4 Teeth of the Cog (yellow)
+4 Teeth of the Cog (blue)
+4 Tough Old Wrench (red)
+4 Tough Old Wrench (yellow)
+4 Tough Old Wrench (blue)
+4 Goldwing Turbine (red)
+4 Goldwing Turbine (yellow)
+4 Goldwing Turbine (blue)
+4 Draw Back the Hammer (red)
+4 Perk Up (red)
+4 Tighten the Screws (red)
+[Marlynn]
+4 Rusty Harpoon (blue)
+4 Dry Powder Shot (red)
+4 Entangling Shot (red)
+4 Nettling Shot (red)
+4 Scouting Shot (red)
+4 Swift Shot (red)
+4 Head Shot (red)
+4 Head Shot (yellow)
+4 Head Shot (blue)
+4 Salvage Shot (red)
+4 Salvage Shot (yellow)
+4 Salvage Shot (blue)
+4 Sic 'Em Shot (red)
+4 Sic 'Em Shot (yellow)
+4 Sic 'Em Shot (blue)
+4 Call in the Big Guns (red)
+4 Call in the Big Guns (yellow)
+4 Call in the Big Guns (blue)
+[Pirate]
+4 Battalion Barque (red)
+4 Battalion Barque (yellow)
+4 Battalion Barque (blue)
+4 Expedition to Azuro Keys (red)
+4 Expedition to Blackwater Strait (red)
+4 Expedition to Dreadfall Reach (red)
+4 Expedition to Horizon's Mantle (red)
+4 Golden Tipple (red)
+4 Golden Tipple (yellow)
+4 Golden Tipple (blue)
+4 Gold Hunter Lightsail (yellow)
+4 Gold Hunter Longboat (yellow)
+4 Gold Hunter Marauder (yellow)
+4 Gold Hunter Ketch (yellow)
+4 Swiftwater Sloop (red)
+4 Swiftwater Sloop (yellow)
+4 Swiftwater Sloop (blue)
+4 Swindler's Grift (red)
+4 Swindler's Grift (yellow)
+4 Swindler's Grift (blue)
+4 Thiev'n Varmints (red)
+4 Chart a Course (red)
+4 Chart a Course (yellow)
+4 Chart a Course (blue)
+4 Mutiny on the Nimbus Sovereign (blue)
+4 Mutiny on the Battalion Barque (blue)
+4 Mutiny on the Swiftwater (blue)
+[Generic]
+4 Blow for a Blow (red)
+4 Life for a Life (red)
+4 Scar for a Scar (red)
+4 Ravenous Rabble (red)
+4 Nimby (red)
+4 Nimby (yellow)
+4 Nimby (blue)
+4 Rally the Coast Guard (red)
+4 Rally the Coast Guard (yellow)
+4 Rally the Coast Guard (blue)
+4 Sirens of Safe Harbor (red)
+4 Sirens of Safe Harbor (yellow)
+4 Sirens of Safe Harbor (blue)
+4 Strike Gold (red)
+4 Strike Gold (yellow)
+4 Strike Gold (blue)
+4 Trade In (red)
+4 Trade In (yellow)
+4 Trade In (blue)
+4 Walk the Plank (red)
+4 Walk the Plank (yellow)
+4 Walk the Plank (blue)
+4 Nimblism (red)
+4 Nimblism (yellow)
+4 Nimblism (blue)
+4 On the Horizon (red)
+4 On the Horizon (yellow)
+4 On the Horizon (blue)
+[Equipment]
+4 Rust Belt
+4 Unicycle
+4 Washed Up Wave
+4 Head Stone
+4 Patch the Hole
+4 Glidewell Fins
+4 Blue Sea Tricorn
+4 Buccaneer's Bounty
+4 Fish Fingers
+4 Peg Leg
+4 Bandana of the Blue Beyonds
+4 Helmsman's Peak
+4 Captain's Coat
+4 Old Knocker
+4 Swiftstrike Bracers
+4 Light Fingers
+4 Quartermaster's Boots
+4 Quick Clicks
+[Rare]
+1 Cloud City Steamboat (red)
+1 Cloud City Steamboat (yellow)
+1 Cloud City Steamboat (blue)
+1 Cogwerx Zeppelin (red)
+1 Cogwerx Zeppelin (yellow)
+1 Cogwerx Zeppelin (blue)
+1 Copper Cog (blue)
+1 Lubricate (blue)
+1 Pinion Sentry (blue)
+1 Board the Ship (red)
+1 Paddle Faster (red)
+1 Hoist 'Em Up (red)
+1 Avast Ye! (blue)
+1 Heave Ho! (blue)
+1 Yo Ho Ho! (blue)
+1 Kelpie, Tangled Mess (yellow)
+1 Limpit, Hop-a-long (yellow)
+1 Scooba, Salty Sea Dog (yellow)
+1 Blue Fin Harpoon (blue)
+1 Red Fin Harpoon (blue)
+1 Yellow Fin Harpoon (blue)
+1 Drop the Anchor (red)
+1 Fire in the Hole (red)
+1 Monkey Powder (red)
+1 Hook (blue)
+1 Line (blue)
+1 Sinker (blue)
+1 Scurv, Stowaway
+1 HMS Barracuda (yellow)
+1 HMS Kraken (yellow)
+1 HMS Marlin (yellow)
+1 Murderous Rabble (blue)
+1 Pilfer the Wreck (red)
+1 Pilfer the Wreck (yellow)
+1 Pilfer the Wreck (blue)
+1 Saltwater Swell (red)
+1 Saltwater Swell (yellow)
+1 Saltwater Swell (blue)
+1 Divvy Up (blue)
+1 Portside Exchange (blue)
+1 Sea Floor Salvage (blue)
+1 Scrub the Deck (blue)
+1 Shifting Tides (blue)
+1 Not So Fast (yellow)
+1 Throw Caution to the Wind (blue)
+1 Lost in Transit (yellow)
+1 Crash Down the Gates (red)
+1 Crash Down the Gates (yellow)
+1 Crash Down the Gates (blue)
+1 Jack Be Nimble (red)
+1 Jack Be Quick (red)
+1 Money or Your Life? (red)
+1 Money or Your Life? (yellow)
+1 Money or Your Life? (blue)
+1 Flying High (red)
+1 Flying High (yellow)
+1 Flying High (blue)
+1 Clap 'Em in Irons (blue)
+1 Regain Composure (blue)
+1 Tit for Tat (blue)
+1 Fiddler's Green (red)
+1 Fiddler's Green (yellow)
+1 Fiddler's Green (blue)
+1 Fool's Gold (yellow)
+[Majestic]
+1 Golden Skywarden (yellow)
+1 Jolly Bludger (yellow)
+1 Cogwerx Dovetail (red)
+1 Palantir Aeronought (red)
+1 Cog in the Machine (red)
+1 Cogwerx Workshop (blue)
+1 Blood in the Water (red)
+1 Chart the High Seas (blue)
+1 Give No Quarter (blue)
+1 Chum, Friendly First Mate (yellow)
+1 Moray le Fay (yellow)
+1 Wailer Humperdinck (yellow)
+1 King Kraken Harpoon (red)
+1 King Shark Harpoon (red)
+1 Big Game Trophy Shot (yellow)
+1 Gold the Tip (yellow)
+1 Barbed Barrage (red)
+1 Return Fire (red)
+1 Conqueror of the High Seas (red)
+1 Loan Shark (yellow)
+1 Tip the Barkeep (blue)
+1 Sunken Treasure (blue)
+1 Sea Legs (yellow)
+1 Midas Touch (yellow)
+1 Amethyst Amulet (blue)
+1 Diamond Amulet (blue)
+1 Onyx Amulet (blue)
+1 Opal Amulet (blue)
+1 Pearl Amulet (blue)
+1 Platinum Amulet (blue)
+1 Pounamu Amulet (blue)
+1 Ruby Amulet (blue)
+1 Sapphire Amulet (blue)
+[RFCommon]
+1 Cloud Skiff (red)
+1 Cloud Skiff (yellow)
+1 Cloud Skiff (blue)
+1 Sky Skimmer (red)
+1 Sky Skimmer (yellow)
+1 Sky Skimmer (blue)
+1 Teeth of the Cog (red)
+1 Teeth of the Cog (yellow)
+1 Teeth of the Cog (blue)
+1 Tough Old Wrench (red)
+1 Tough Old Wrench (yellow)
+1 Tough Old Wrench (blue)
+1 Goldwing Turbine (red)
+1 Goldwing Turbine (yellow)
+1 Goldwing Turbine (blue)
+1 Draw Back the Hammer (red)
+1 Perk Up (red)
+1 Tighten the Screws (red)
+1 Angry Bones (red)
+1 Angry Bones (yellow)
+1 Angry Bones (blue)
+1 Burly Bones (red)
+1 Burly Bones (yellow)
+1 Burly Bones (blue)
+1 Jittery Bones (red)
+1 Jittery Bones (yellow)
+1 Jittery Bones (blue)
+1 Restless Bones (red)
+1 Restless Bones (yellow)
+1 Restless Bones (blue)
+1 Barnacle (yellow)
+1 Chowder, Hearty Cook (yellow)
+1 Cutty Shark, Quick Clip (yellow)
+1 Riggermortis (yellow)
+1 Shelly, Hardened Traveler (yellow)
+1 Swabbie (yellow)
+1 Rusty Harpoon (blue)
+1 Dry Powder Shot (red)
+1 Entangling Shot (red)
+1 Nettling Shot (red)
+1 Scouting Shot (red)
+1 Swift Shot (red)
+1 Call in the Big Guns (red)
+1 Call in the Big Guns (yellow)
+1 Call in the Big Guns (blue)
+1 Battalion Barque (red)
+1 Battalion Barque (yellow)
+1 Battalion Barque (blue)
+1 Expedition to Azuro Keys (red)
+1 Expedition to Blackwater Strait (red)
+1 Expedition to Dreadfall Reach (red)
+1 Expedition to Horizon's Mantle (red)
+1 Golden Tipple (red)
+1 Golden Tipple (yellow)
+1 Golden Tipple (blue)
+1 Gold Hunter Lightsail (yellow)
+1 Gold Hunter Longboat (yellow)
+1 Gold Hunter Marauder (yellow)
+1 Gold Hunter Ketch (yellow)
+1 Swiftwater Sloop (red)
+1 Swiftwater Sloop (yellow)
+1 Swiftwater Sloop (blue)
+1 Swindler's Grift (red)
+1 Swindler's Grift (yellow)
+1 Swindler's Grift (blue)
+1 Thiev'n Varmints (red)
+1 Chart a Course (red)
+1 Chart a Course (yellow)
+1 Chart a Course (blue)
+1 Mutiny on the Nimbus Sovereign (blue)
+1 Mutiny on the Battalion Barque (blue)
+1 Mutiny on the Swiftwater (blue)
+1 Blow for a Blow (red)
+1 Nimby (red)
+1 Nimby (yellow)
+1 Nimby (blue)
+1 Rally the Coast Guard (red)
+1 Rally the Coast Guard (yellow)
+1 Rally the Coast Guard (blue)
+1 Sirens of Safe Harbor (red)
+1 Sirens of Safe Harbor (yellow)
+1 Sirens of Safe Harbor (blue)
+1 Strike Gold (red)
+1 Strike Gold (yellow)
+1 Strike Gold (blue)
+1 Walk the Plank (red)
+1 Walk the Plank (yellow)
+1 Walk the Plank (blue)
+1 On the Horizon (red)
+1 On the Horizon (yellow)
+1 On the Horizon (blue)
+[RFRare]
+1 Cloud City Steamboat (red)
+1 Cloud City Steamboat (yellow)
+1 Cloud City Steamboat (blue)
+1 Cogwerx Zeppelin (red)
+1 Cogwerx Zeppelin (yellow)
+1 Cogwerx Zeppelin (blue)
+1 Copper Cog (blue)
+1 Lubricate (blue)
+1 Pinion Sentry (blue)
+1 Board the Ship (red)
+1 Paddle Faster (red)
+1 Hoist 'Em Up (red)
+1 Avast Ye! (blue)
+1 Heave Ho! (blue)
+1 Yo Ho Ho! (blue)
+1 Kelpie, Tangled Mess (yellow)
+1 Limpit, Hop-a-long (yellow)
+1 Scooba, Salty Sea Dog (yellow)
+1 Blue Fin Harpoon (blue)
+1 Red Fin Harpoon (blue)
+1 Yellow Fin Harpoon (blue)
+1 Drop the Anchor (red)
+1 Fire in the Hole (red)
+1 Monkey Powder (red)
+1 Hook (blue)
+1 Line (blue)
+1 Sinker (blue)
+1 HMS Barracuda (yellow)
+1 HMS Kraken (yellow)
+1 HMS Marlin (yellow)
+1 Murderous Rabble (blue)
+1 Pilfer the Wreck (red)
+1 Pilfer the Wreck (yellow)
+1 Pilfer the Wreck (blue)
+1 Saltwater Swell (red)
+1 Saltwater Swell (yellow)
+1 Saltwater Swell (blue)
+1 Divvy Up (blue)
+1 Portside Exchange (blue)
+1 Sea Floor Salvage (blue)
+1 Scrub the Deck (blue)
+1 Shifting Tides (blue)
+1 Not So Fast (yellow)
+1 Throw Caution to the Wind (blue)
+1 Lost in Transit (yellow)
+1 Crash Down the Gates (red)
+1 Crash Down the Gates (yellow)
+1 Crash Down the Gates (blue)
+1 Jack Be Nimble (red)
+1 Jack Be Quick (red)
+1 Money or Your Life? (red)
+1 Money or Your Life? (yellow)
+1 Money or Your Life? (blue)
+1 Flying High (red)
+1 Flying High (yellow)
+1 Flying High (blue)
+1 Clap 'Em in Irons (blue)
+1 Regain Composure (blue)
+1 Tit for Tat (blue)
+1 Fiddler's Green (red)
+1 Fiddler's Green (yellow)
+1 Fiddler's Green (blue)
+1 Fool's Gold (yellow)
+[RFMajestic]
+1 Golden Skywarden (yellow)
+1 Jolly Bludger (yellow)
+1 Cogwerx Dovetail (red)
+1 Palantir Aeronought (red)
+1 Cog in the Machine (red)
+1 Cogwerx Workshop (blue)
+1 Blood in the Water (red)
+1 Chart the High Seas (blue)
+1 Give No Quarter (blue)
+1 Chum, Friendly First Mate (yellow)
+1 Moray le Fay (yellow)
+1 Wailer Humperdinck (yellow)
+1 King Kraken Harpoon (red)
+1 King Shark Harpoon (red)
+1 Big Game Trophy Shot (yellow)
+1 Gold the Tip (yellow)
+1 Barbed Barrage (red)
+1 Return Fire (red)
+1 Conqueror of the High Seas (red)
+1 Loan Shark (yellow)
+1 Tip the Barkeep (blue)
+1 Sunken Treasure (blue)
+1 Sea Legs (yellow)
+1 Midas Touch (yellow)
+1 Amethyst Amulet (blue)
+1 Diamond Amulet (blue)
+1 Onyx Amulet (blue)
+1 Opal Amulet (blue)
+1 Pearl Amulet (blue)
+1 Platinum Amulet (blue)
+1 Pounamu Amulet (blue)
+1 Ruby Amulet (blue)
+1 Sapphire Amulet (blue)

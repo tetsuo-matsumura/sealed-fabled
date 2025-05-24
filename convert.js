@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const inputFilePath = path.join(__dirname, 'hnt.txt');
+const inputFilePath = path.join(__dirname, 'sea.txt');
 const typesOutputFilePath = path.join(__dirname, 'types.json');
 const layoutsOutputFilePath = path.join(__dirname, 'layouts.json');
 

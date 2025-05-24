@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:title" content="Fabled Sealed - Part the Mistveil"/>
+    <meta property="og:title" content="Fabled Sealed - High Seas"/>
     <meta property="og:image" itemprop="image" content="https://tetsuo-matsumura.github.io/sealed-fabled/thumb.png"/>
     <meta property="og:description" content="Fabled Sealed lets you generate and simulate ratio-accurate boosters, helping you master sealed format strategies. Perfect for understanding the dynamics and honing your skills in sealed deck play."/>
     <meta property="og:url" content="https://tetsuo-matsumura.github.io/sealed-fabled/"/>
@@ -11,7 +11,7 @@
     <meta property="og:image:height" content="268"/>
     <meta property="og:type" content="website"/> 
     <link rel="icon" type="image/png" href="https://tetsuo-matsumura.github.io/sealed-fabled/hof.png">
-    <title>The Hunted - Sealed Generator</title>
+    <title>High Seas - Sealed Generator</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap" rel="stylesheet">
@@ -35,7 +35,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: url('art_hnt_keyart.original.jpg') center/cover no-repeat fixed;
+            background: url('sea_keyart_sig2.original.jpg') center/cover no-repeat fixed;
             opacity: 0.3;
             z-index: -1; 
         }
@@ -175,7 +175,7 @@
 <body>
 <div class="controls">
   <h2 style="display: inline; padding-right: 2rem;">
-    The Hunted - Sealed Generator v1.5
+    High Seas - Sealed Generator v2.0
   </h2>
   <button class="primary" id="generateButton">Generate Sealed Boosters</button>
   <button id="exportButton">Export to Fabrary</button>
@@ -227,7 +227,7 @@ function findMatchingCard(cardName, cards) {
 }
 
 function getRandomBooster(layouts) {
-  const totalProbability = 544290;
+  const totalProbability = layouts.reduce((sum, layout) => sum + parseInt(layout.probability, 10), 0);
   const randomValue = Math.random() * totalProbability;
   
   let cumulativeProbability = 0;
