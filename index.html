@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:title" content="Fabled Sealed - High Seas"/>
+    <meta property="og:title" content="Fabled Sealed - Super Slam"/>
     <meta property="og:image" itemprop="image" content="https://tetsuo-matsumura.github.io/sealed-fabled/thumb.png"/>
     <meta property="og:description" content="Fabled Sealed lets you generate and simulate ratio-accurate boosters, helping you master sealed format strategies. Perfect for understanding the dynamics and honing your skills in sealed deck play."/>
     <meta property="og:url" content="https://tetsuo-matsumura.github.io/sealed-fabled/"/>
@@ -11,7 +11,7 @@
     <meta property="og:image:height" content="268"/>
     <meta property="og:type" content="website"/> 
     <link rel="icon" type="image/png" href="https://tetsuo-matsumura.github.io/sealed-fabled/hof.png">
-    <title>High Seas - Sealed Generator</title>
+    <title>Super Slam - Sealed Generator</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap" rel="stylesheet">
@@ -35,7 +35,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: url('sea_keyart_sig2.original.jpg') center/cover no-repeat fixed;
+            background: url('sup_heroart_signature4.original.jpg') center/cover no-repeat fixed;
             opacity: 0.3;
             z-index: -1; 
         }
@@ -187,7 +187,7 @@
 <div id="rightPanel"></div>
 
 <script>
-  let fabraryUrl = generateDeckURL(['SEA006', 'SEA045', 'SEA084', 'SEA094', 'SEA007', 'SEA124', 'SEA002']);
+  let fabraryUrl = generateDeckURL([]);
   let boosters = []
   document.getElementById('exportButton').addEventListener('click', function () {
     window.open(fabraryUrl, '_blank');
@@ -257,7 +257,7 @@ function generateRandomLayout(layouts, types, cards) {
     const shuffledBoosters = boxBoosters.sort(() => Math.random() - 0.5);
     const playerBoosters = shuffledBoosters.slice(0, 8);
     let currentLayout = playerBoosters[0]
-    const cardsIds = ['SEA006', 'SEA045', 'SEA084', 'SEA094', 'SEA007', 'SEA124', 'SEA002'];
+    const cardsIds = [];
 
     for (let boosterNumber = 0; boosterNumber < 8; boosterNumber++) {
         currentLayout = playerBoosters[boosterNumber];
@@ -371,7 +371,7 @@ function displayDeckInfo() {
     const cards = countCards();
     rightPanel.innerHTML = `
     <h2>Deck Info</h2>
-    <p>Card Amount: ${cards.all} + 8 Tokens</p>
+    <p>Card Amount: ${cards.all} + 0 Tokens</p>
     ${Object.keys(cards).reduce((acc, cur) => {
       if (cur === 'all') return acc
       return acc + `<p>${cur}: ${cards[cur]}</p>`
